@@ -1,0 +1,155 @@
+
+Transaksi Lancar, Monggo di maksimalkan
+
+
+*Center Cahaya Reload*
+
+*XL/AXIS* :
+▶ 081938702999
+▶ 087758287999
+▶ 087758396999
+
+*TELKOMSEL* :
+▶ 082232627999
+▶ 082257204999
+▶ 082244937779
+▶ 082231333329
+▶ 082231333318
+▶ 082231333316
+▶ 082245231232
+
+*INDOSAT* :
+▶ 085708942999
+▶ 085708945999
+▶ 085708947999 ( bisa pakai WA atau klik ini https://wa.me/6285708947999 )
+*_Pastikan Nomer WA nya sudah terdaftar / terparalel_*
+
+*TRI :*
+▶ 089507910999
+
+
+Telegram Center 1 : @Cahaya1_bot
+
+
+=================
+Format Transaksi Cahaya Reload
+
+- Isi Pulsa : 
+Ketik : Kode/Nominal.Nomer.pin
+Contoh : 5.08888222.1234 atau IDM5.08545452.1234
+
+- Isi Pulsa Nomer dan Nominal Sama di Hari yang sama juga :
+Ketik : Kode/Nominal.Nomer.Pengulangan ke.Pin
+Contoh : 5.085552121.2.1234
+
+- Daftar Downline: 
+DAFTAR.NAMAKONTER.ALAMAT.NOHP.Pin
+contoh : 
+DAFTAR.HASANCELL.MBAYEM.085867305611.1234
+
+- Transfer Deposit Downline
+Ketik : T.NO HP.JUMLAH.PIN
+Contoh: T.08126677889.100000.1234
+
+- Tarik Saldo Deposit Downline
+Ketik : T.NO HP.-JUMLAH.PIN
+Contoh: T.08126677889.-100000.1234
+
+- Set Markup Harga DL
+Ketik : M.KODE DL.JUMLAH UP.PIN
+Contoh: M.CR0052.50.1234
+
+- Cek Komisi
+Ketik : Kom.PIN
+Contoh: Kom.1234
+
+- Tukar Komisi
+Ketik : TK.PIN
+Contoh: TK.1234
+
+-Ganti PIN
+Ketik : G.PinLama.PinBaru
+Contoh: G.5758.1234
+
+- Ganti Nomer :
+Ketik : GHP.NomerBaru.NomerLama.Pin
+Contoh : p.085555.0588888.1234
+
+- Cek Nomer Nomer yang sudah terdaftar : 
+Ketik : ListHP
+
+- Paralel (Tambah) Nomer : 
+Ketik : P.nomer.Pin
+Contoh : p.085555.1234
+
+- Hapus Nomer :
+Ketik : Hapus.nomer.Pin
+Contoh : Hapus.085555.1234
+
+- Cek 5 transaksi terakhir :
+Ketik : last5.Pin
+Contoh : last5.1234
+
+- Cek transaksi harian :
+Ketik : LAP.DDMMYY.Pin
+Contoh : lap.271218.1234
+
+- Cek Status Pengisian terakhir nomer tertentu : 
+Ketik : STATUS.Nomer.Pin
+Contoh : Status.0855551332.1234
+======================
+
+*Cara Unreg / Unpair Kartu Prabayar*
+
+* *XL/Axis* : kirim SMS dengan format UNREG# No_hp (UNREG# langsung diikuti nomor ponsel), atau ketik kode USSD .*123*4444# di aplikasi telepon dan tekan "dial / Ok / Yes".  
+
+* *Telkomsel* : Ketikkan kode USSD *444#, lalu tekan "dial / Ok / Yes" dan pilih opsi " UnReg". 
+
+* *Indosat* : kirim SMS dengan format UNPAIR#No_hp# ke 4444.   
+
+* *Tri (3)*: mengunjungi situs web https://registrasi.tri.co.id, pilih opsi "UnReg".
+
+===============================================
+
+Format Cahaya RELOAD
+* 5TRX Terakhir : LAST5.pin
+* Aktiv tanpa Pin : PINOFF
+* NonAktivkan tanpa Pin : PINON
+* CEK HARGA : H.KODE
+* CEK SALDO : S.PIN
+* CEK STATUS TRX : STATUS.Tujuan
+* GANTI NOMER : GHP.NomerBaru.PIN
+* Lihat nomer Paralel : ListHp
+* Tambah Paralel : P.NoHape.PIN
+* Hapus Paralel : HAPUS.NoHape.PIN
+* LAPORAN TRX : LAP.tanggal.PIN
+* Ganti Nama : GNAMA.NamaBaru
+
+KHUSUS UPLINE : 
+* DAFTAR DL : DAFTAR.NAMA.ALAMAT.NOhape.pin
+* Transfer Deposit : T.IDDoeline.Jumlah.PIN
+* Tarik Deposit Downline : T.IDDoeline.-Jumlah.PIN  (Jumlahnya minus)
+* AKtivkan DL : AKTIF.ID.PIN
+* Non Aktivkan Downline : NONAKTIF.ID.PIN
+* Lihat DL : LD
+* CEK SELISIH HARGA : CS.IDDownline
+* AMBIL KOMISI : TK.PIN
+* CEK KOMISI : KOM.PIN
+* CEK TOTAL TRX Oleh Upline : TRXRS.NoHape.Tanggal.PIN
+
+
+
+=================================================
+
+PasWord WEB VTRI (895630964979) : CrmR_021
+
+indosat : 
+Organization Shortcode : 1505424
+Username anda : NYO1990142
+Short Code: 1505424, Organization Name: BAROKAH 2 cell, Classification: Silver
+Password anda telah direset oleh INDOSAT. Password baru anda 378849L/ TID :  11812000010552458870
+
+=================================================
+```Info : Transaksi Belum Dapat Balsan Silahkn d kirim Ulang...```
+_Habis Mati Listrik_
+
