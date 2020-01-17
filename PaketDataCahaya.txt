@@ -1,0 +1,745 @@
+Voucher data AXIS
+
+AV1 : Voucher Data AXIS AIGO 1GB 24 JAM 60HR *13.750*
+AV2 : Voucher Data AXIS AIGO 2GB 24JAM 60HR *23.800*
+
+Transaksi Isi Pulsa : 
+Ketik : Nominal.No Hp Tujuan.PIN
+Contoh: AV1.083888889.1234
+
+kirim ke center transaksi..
+
+Cara Input ke Hape Pelanggan : .*838*KodeSN# OK
+
+#Cek kouta : *123# > Info lain > Info kartu > cek kuota
+
+=============================================
+
+*UPDATE KUOTA SMART Data*
+
+*Volume / Kuota Based*
+📱 *FD4* = Total Kuota 4GB, Kuota Utama 1,25GB (24JAM) + 1,75GB (01.00 sd 05.00) + Kuota Chat 1GB, Masa Aktiv 7 Hari
+📱 *FD6* = Total Kuota 6GB, Kuota Utama 2GB (24JAM) + 1GB (01.00 sd 05.00) + Kuota chat 1 GB, Masa Aktiv 14 Hari
+📱 *FD10* = Total Kuota 10GB, Kuota Utama 4GB (24JAM) + 4GB (01.00 sd 05.00), Masa Aktiv 14 Hari
+📱 *FD30* = Total Kuota 30GB, Kuota Utama 8GB (24JAM) + 10GB (01.00 sd 05.00), Masa Aktiv 30 Hari
+📱 *FD60* = Total Kuota 60GB, Kuota Utama 15GB (24JAM) + 15GB (01.00 sd 05.00), Masa Aktiv 30 Hari
+📱 *FD90* = Total Kuota 90GB, Kuota Utama 22,5GB (24JAM) + 22,5GB (01.00 sd 05.00), Masa Aktiv 30 Hari
+📱 *FD120* = Total Kuota 120GB, Kuota Utama 30GB (24JAM) + 30GB (01.00 sd 05.00), Masa Aktiv 30 Hari
+
+*Kuota Unlimited Bulanan*
+- *FDU70* = Kuota Unlimited, FUP 1GB/Hari *Masa aktiv 28 Hari*
+
+Cek Harga : HA.FD
+Transaksi : Kode.Nomer.Pin
+Contoh >> FD4.088812345647.1234
+kirim ke center
+
+=============================================
+
+*VOUCHER SMARTFREN DATA*
+
+🌵VFD3  : VOUCHER SMART 3GB ( 1,25GB 24Jam+1,75gb midnight (01.00-04.59)+unlimited chatting m/a  7hari
+🌵VFD5 :  VOUCHER SMART 5GB Jaringan 4G 24 Jam + 5GB Midnite 01.00 s/d 06.00 Masa Aktif 30 Hari
+🌵VFD8 :  VOUCHER SMART 16GB (8GB 24Jam+8gb midnight  (01.00-04.59)+unlimited chatting m/a 30hari
+🌵VFD15 : VOUCHER SMART 15GB Jaringan 4G 24 Jam + 15GB Midnite 01.00 s/d 06.00 Masa Aktif 30 Hari
+🌵VFD30 : VOUCHER SMART 30GB Jaringan 4G 24 Jam + 30GB Midnite 01.00 s/d 06.00 Masa Aktif 30 Hari
+🌵VFDU :  VOUCHER SMART Unlimited (FUP 1 Gb / Hari ) Masa Aktif 30 Hari 
+
+##INPUT KODE VOUCHER DI APLIKASI MY SMARTFREN
+
+
+Cek Harga : HA.VFD
+Transaksi : Kode.Nomer.Pin
+Contoh >> VFD3.088812345647.1234
+kirim ke center
+
+Cara Reddem Voucher SMART : 
+*Setelah Berhasil, Input Serial Number (SN) diaplikasi MySmart*
+kirim SMS ke 999 dengan Format : ISI [spasi] 16 Digit kode SN
+
+atau 
+
+*999*16 Digit kode SN #
+
+=============================================
+
+*TRI PAKET DATA (AON)*
+
+* *TDP1: *THREE DATA 1.5 Gb* + Pulsa Reg 2k, Masa Aktiv Mengikuti masa kartu 
+* *TDP2: *THREE DATA 2 Gb* + Pulsa Reg 2k, Masa Aktiv Mengikuti masa kartu
+* *TDP3: *THREE DATA 3 Gb* + Pulsa Reg 2k, Masa Aktiv Mengikuti masa kartu
+* *TDP6: *THREE DATA 6 Gb* + Pulsa Reg 2k, Masa Aktiv Mengikuti masa kartu 
+
+*Kuota AON+Unlimited*
+
+* *TDA6* : *THREE DATA 6 Gb + Unlimited Kuota (01.00 sd 17.00)* + Pulsa Reg 2k, Masa Aktiv Mengikuti masa kartu
+* *TDA10* :*THREE DATA 10 Gb + Unlimited Kuota (01.00 sd 17.00)* + Pulsa Reg 2k, Masa Aktiv Mengikuti masa kartu
+
+* *TDP20* = THREE DATA  20MB 
+* *TDP80* = THREE DATA  80MB  
+* *TDP125* = THREE DATA  1.25 Gb, Masa Aktiv 30 Hari 
+* *TDP300* = THREE DATA  300MB 
+* *TDP650* = THREE DATA  650MB 
+* *TDP425* = THREE DATA  4.25 Gb, Masa Aktiv 30 Hari
+
+Cek harga
+Ketik : HA.TDP
+
+Transaksi Isi Pulsa
+Ketik : Nominal.No Hp Tujuan.PIN
+Contoh: TDP2.08567888889.1234
+
+kirim ke center transaksi..
+
+** CEK KUOTA REGULER TRi > SMS : INFO DATA kirim ke 234
+
+=============================================
+Nominal baru *INDOSAT*
+
+* *i12* : Pulsa Reguler 12k
+* *i15* : Pulsa Reguler 15k, masa aktiv 20 Hari
+* *i30* : Pulsa Reguler 30k, masa aktiv 30 Hari
+* *i40* : Pulsa Reguler 40k, masa aktiv 30 Hari
+* *i60* : Pulsa Reguler 60k, masa aktiv 30 Hari (Ditambah Bonus 1GB untuk 3 hari)
+* *i80* : Pulsa Reguler 80k, masa aktiv 30 Hari (Ditambah Bonus 1GB untuk 7 hari)
+
+Cek Harga : HA.i  
+Cara TRX : i60.085854545.1234 atau 60.085854545.1234
+
+Kirim ke Center Transaksi
+
+* *IFM* : Kuota 2GB + 3GB (jaringan 4G) + 5Gb (00-06) + 2GB Streaming, + Unlimited Nelfon Aktif 30hr
+* *IDX10* : Kuota Extra *10Mb* + Masa Aktiv *30 Hari* (bisa untuk perpanjang Masa Aktiv)
+=============================================
+
+Nominal Telkomsel Lebih Banyak, tidak perlu isi berkali kali
+* *S5*
+* *S10*
+* *S20*
+* *S25*
+* *S30*
+* *S40*
+* *S50*
+* *S60*
+* *Dst... sampai S200*
+
+Untuk cek Harga dan Sekalain cek Kode semua produk telkomsel reguler
+Kirim Format : *HA.S*
+ke SMS center transaksi
+
+=============================================
+*Indosat Data*
+
+*Paket Yellow INDOSAT DATA*
+* *ID1M1* : Kuota 1 Gb 24Jam Masa Aktiv *1 Hari*
+* *ID1M3* : Kuota 1 Gb 24Jam Masa Aktiv *3 Hari*
+* *ID1M7* : Kuota 1 Gb 24 jam, Masa Aktiv *7 Hari*
+* *ID1M15* : Kuota 1 Gb 24 jam, Masa Aktiv *15 Hari*
+
+*Paket Mini Indosat Data*
+* *IM1* : 1Gb Kuota Utama+500MB APPS+1Gb (00-06) Aktiv 30 Hari
+* *IM2* : 2Gb Kuota Utama + 500MB Kuota Lokal + 2Gb Kouta di Jaringan 4G +  4Gb Kuota Midnight (00-06) Aktiv 30 Hari
+
+*Paket Unlimited Indosat Data*
+* *IDY7* : Kuota Utama 1Gb + Unlimited Kuota App (WA, FB, Twitter, Gojek, Grab, FB Messenger, Line dan BBM) + Unlimited kuota streaming (iflix, spotify, *Youtube* ), Masa Aktiv *7 Hari*
+
+* *IDM1* : Kuota 1Gb + Unlimited Kuota App (WA, FB, Twitter, Gojek, Grab, FB Messenger, Line dan BBM)+ Unlimited kuota streaming (iflix dan spotify), Masa Aktiv *30 Hari*
+
+* *IDM2* : Kuota 2Gb + Unlimited Kuota App (WA, FB, Twitter, Gojek, Grab, FB Messenger, Line dan BBM)+ Unlimited kuota streaming (iflix dan spotify), Masa Aktiv *30 Hari*
+
+* *IDM3* :  Kuota 3Gb + Unlimited Kuota App (WA, FB, Twitter, Gojek, Grab, FB Messenger, Line dan BBM)+ Unlimited kuota streaming (iflix, spotify, *Youtube* ) + Unlimited SMS ke sesama Im3, Masa Aktiv *30 Hari*
+
+* *IDM4* : 4Gb Kuota Utama + 4Gb Apps On + 20Gb Midnight, Masa Aktiv *30 Hari*
+
+* *IDM7* : Kuota 7Gb + Unlimited Kuota App (WA, FB, Twitter, Gojek, Grab, FB Messenger, Line dan BBM)+ Unlimited kuota streaming (iflix, spotify, *Youtube* ) + Unlimited SMS ke sesama IM3, Masa Aktiv *30 Hari*
+
+* *IDM10* : Kuota 10Gb + Unlimited Kuota App (WA, FB, Twitter, Gojek, Grab, FB Messenger, Line dan BBM)+ Unlimited kuota streaming (iflix, spotify, *Youtube* ) Unlimited SMS dan Telfon ke sesama IM3, Masa Aktiv *30 Hari*
+
+* *IDM15* : Kuota 15Gb + Unlimited Kuota App (WA, FB, Twitter, Gojek, Grab, FB Messenger, Line dan BBM)+ Unlimited kuota streaming (iflix, spotify, *Youtube* ) Unlimited SMS dan Telfon ke sesama IM3, Masa Aktiv *30 Hari*
+
+_Cek Status paket, Caranya: Ketik  **STATUS**  kirim ke 363_
+_Cek KUOTA , Caranya: Ketik  **USAGE** kirim ke 363_
+
+Cek Harga : HA.IDM / HA.IM / HA.IDY  (rumusnya : HA.awalan kode sebelum nominal)
+Cara TRX : IDM2.085854545.1234
+
+=============================================
+*Indosat Data Freedom*
+
+* *IF4* : ISAT FREEDOM TOTAL KUOTA 4 GB ( *2GB, Q UTAMA + 1GB, Q LOKAL + 1GB, Q Malam* ) + 5Mnt Telfon All, Masa aktiv 30 Hari
+
+* *IF8* : ISAT FREEDOM TOTAL KUOTA 8 GB ( *6GB, Q UTAMA + 2GB, Q LOKAL + 2GB, Q Malam* ) + 20Mnt Telfon All, Masa aktiv 30 Hari
+
+* *IF14* : ISAT FREEDOM TOTAL KUOTA 14 GB ( *7.5GB, Q UTAMA + 3.5GB, Q LOKAL + 3GB, Q Malam* ) + 30Mnt Telfon All, Masa aktiv 30 Hari
+
+* *IF20* : ISAT FREEDOM TOTAL KUOTA 20 GB ( *11GB, Q UTAMA + 5GB, Q LOKAL + 4GB, Q Malam* ) + 40Mnt Telfon All, Masa aktiv 30 Hari
+
+* *IF30* : ISAT FREEDOM TOTAL KUOTA 30 GB ( *16GB, Q UTAMA + 8GB, Q LOKAL + 6GB, Q Malam* ) + 60Mnt Telfon All, Masa aktiv 30 Hari
+
+* *IF50* : ISAT FREEDOM TOTAL KUOTA 50 GB ( *25GB, Q UTAMA + 15GB, Q LOKAL + 10GB, Q Malam* ) + 60Mnt Telfon All, Masa aktiv 30 Hari
+
+_Cek Status paket, Caranya: Ketik  **STATUS**  kirim ke 363_
+_Cek KUOTA , Caranya: Ketik  **USAGE** kirim ke 363_
+
+Cek Harga : HA.IF 
+Cara TRX : IF4.085854545.1234
+
+Kirim ke center Transaksi ya kaka
+
+
+=============================================
+*PAKET DATA AXIS*
+AXB300 : AXIS BRONET 300MB, 24JAM,7HR
+AXB1 : Axis BRONET 1GB,24JAM Aktif 30 Hari
+AXB2 : Axis BRONET 2GB,24JAM Aktif 30 Hari
+AXB3 : Axis BRONET 3GB,24JAM Aktif 30 Hari
+
+Cek harga : HA.AXB
+Transaksi : kode.No Hp Tujuan.PIN
+Contoh: AXB1.083888889.1234
+
+=============================================
+*PAKET DATA XL*
+
+- *XC5* :  5GB (2G/3G/4G) + 5GB YOUTUBE (24JAM) + UNLIMITED YOUTUBE (01-06) + 20mnt TELP ALL OPR)
+- *XC10* :  10GB (2G/3G/4G) + 10GB YOUTUBE (24JAM) + UNLIMITED YOUTUBE (01-06) + 40mnt TELP ALL OPR)
+- *XC15* :  15GB (2G/3G/4G) + 15GB YOUTUBE (24JAM) + UNLIMITED YOUTUBE (01-06) + 60mnt TELP ALL OPR)
+- *XC20* :  20GB (2G/3G/4G) + 20GB YOUTUBE (24JAM) + UNLIMITED YOUTUBE (01-06) + 60mnt TELP ALL OPR)
+- *XC35* :  35GB (2G/3G/4G) + 35GB YOUTUBE (24JAM) + UNLIMITED YOUTUBE (01-06) + 60mnt TELP ALL OPR)
+
+PAKET HOT ROD
+- *XHR50* : Kuota 50MB Aktif 7 Hari
+- *XHR800* : Kuota 800MB Aktif 30 Hari
+- *XHR1* : Kuota 1,5GB 24 jam 30 HARI
+- *XHR3* :	Kuota 3GB 24 jam 30 HARI
+- *XHR6* :	Kuota 6GB 24 jam 30 HARI
+- *XHR8* :	Kuota 8GB 24 jam 30 HARI
+- *XHR12* :	Kuota 12GB 24 jam 30 HARI
+- *XHR16* :	Kuota 16GB 24 jam 30 HARI
+
+Cek Harga : HA.XHR  / HA.XC
+
+Transaksi : Kode.Nomer.Pin
+```Contoh: XHR1.08787888888.1234```
+
+*Cek kouta Dial : *123# : info lain : info kartu : pilih cek kuota.
+
+=============================================
+*PAKET TELFON XL*
+
+- *XT2* : Kuota Telfon 200 Mnt (Sesama XL / AXIS), 14 Hari
+- *XT3* : Kuota Telfon 300 Mnt (Semua OPR), 30 Hari
+- *XT4* : Kuota Telfon 350 Mnt (Sesama XL / AXIS) + 50 Mnt (Opr Lain), 7 Hari
+- *XT6* : Kuota Telfon 200 Mnt (Sesama XL / AXIS) + 400 SMS (Sesama XL / AXIS), 30 Hari
+- *XT5* : Kuota Telfon 500 Mnt (Sesama XL / AXIS), 30 Hari
+- *XT300* : Kuota Telfon 300 Mnt (Anynet), 90 Hari
+- *XT500* : Kuota Telfon 500 Mnt (Anynet), 90 Hari
+
+Cek Harga : HA.XT
+
+Transaksi : Kode.Nomer.Pin
+Contoh: XT2.08787888888.1234
+
+*Cek kouta Dial : *123# : info lain : info kartu : pilih cek kuota.
+
+=============================
+Tambah Masaa Aktiv XL / AXIS  XA30
+
+- *XA30* : Masa Aktiv XL / AXIS 30 hari
+
+Cek Harga : H.XA30.Pin
+
+Transaksi : Kode.Nomer.Pin
+Contoh: XA30.08787888888.1234
+=============================================
+PAKET TELPON KARTU TELKOMSEL KODE : ST
+
+*ST5* :  Paket TELFON 80 MENIT  Sesama + 20 Menit ke Semua Operator, 1 HARI
+
+*ST10* : Paket TELFON 170 MENIT  Sesama + 30 Menit ke Semua Operator, 3 HARI
+
+
+Cek kuota paket di *888*3#
+
+Cek harga
+Ketik : HA.ST
+
+Transaksi Isi Pulsa
+Ketik : Nominal.No Hp Tujuan.PIN
+Contoh: ST5.08567888889.1234
+
+=============================================
+PAKET TELPON KARTU TELKOMSEL BULK KODE : STB
+
+📌 *STB1* : Paket TELFON BULK 185 MENIT  Sesama + 15 Menit ke Semua Operator, 1 HARI
+📌 *STB2* : Paket TELFON BULK 370 MENIT  Sesama + 30 Menit ke Semua Operator, 3 HARI
+📌 *STB3* : Paket TELFON BULK 550 MENIT Sesama + 50 Menit ke Semua Operator, 7 HARI
+📌 *STB4* : Paket TELFON BULK 1300 MENIT, 15 HARI
+📌 *STB5* : Paket TELFON BULK 2000 MENIT Sesama + 100 Menit ke semua Operator, 30 HARI
+📌 *STB6* : Paket TELFON BULK 6250 MENIT Sesama + 250 Menit ke Semua Operator, 30 HARI
+
+Cek kuota paket di *888*3#
+
+Format Transaksi :
+* *CEK HARGA* : (Khusus cek Harga tambahkan awalan *H* sebelum kode, *HSTB1, HSTB2, HSTB3 dst)
+- CEK.HKodeLayanan.NomerTujuan.PinTRX
+Contoh Cek Harga TELKOMSEL Telfon :
+- CEK.HSTB1.082232627999.1234
+
+*Isi Kuota* :
+Ketik : Nominal.No Hp Tujuan.PIN
+Contoh: STB1.08567888889.1234
+
+KIRIM KE CENTER TRANSAKSI
+
+_Untuk produk telkomsel yang berlabel *BULK* Harga berubah ubah sesuai zona, beritahukan harga setelah transaksi berhasil_
+=============================================
+
+
+ *PRODUK  TELFON INDOSAT* 
+
+ IT5 :  Nelfon Seharian 1000 mnt ke Sesama Indosat
+ IT15 :  Nelfon Mingguan unlimited mnt ke Sesama Indosat + 50 mnt ke Semua Opertor
+ IT25 :  Nelfon Bulanan Unlimited mnt ke Sesama Indosat
+ IT55 :  Nelfon Bulanan Unlimited mnt ke Sesama Operator + 250 mnt ke Semua Opertor
+
+Cek Satus dan Kuota Paket :  
+Tekan : .*123*5*3*8# Ok
+Kemudian tekan :
+>> *1 Untuk Cek KUOTA*
+>> *2 Untuk Cek STATUS*
+
+Cek Harga : HA.it
+
+Transaksi Isi Pulsa
+Ketik : Nominal.No Hp Tujuan.PIN
+Contoh: it5.08567888889.1234
+
+kirim ke center transaksi..
+
+=============================================
+TELKOMSEL DATA
+        
+SD5 : 35 MB 7 hari
+SD10 : 80 MB 7 hari
+SD20 : 340 MB 7 hari
+
+cek kuota bisa *363# plih cek status, klau g bisa dial *888*3#
+
+Cek harga
+Ketik : HA.SD
+
+Transaksi Isi Pulsa
+Ketik : Nominal.No Hp Tujuan.PIN
+Contoh: SD5.08527888889.1234
+
+=============================================
+
+*Voucher data INDOSAT*
+
+* *Vi5* : Kuota Utama 500MB + Unlimited Kuota App + Unlimited YOUTUBE 24jam, masa aktiv 3 hari  *Hrga : Rp. 5.800*
+* *Vim1* : 1Gb Kuota Utama+500MB APPS+1Gb (00-06) Aktiv 30 Hari  *Hrga : Rp. 11.800*
+
+Cek Harga : HA.Vi
+
+Transaksi Isi Pulsa
+Ketik : Nominal.No Hp Tujuan.PIN
+Contoh: VI5.08567888889.1234
+
+*Note*
+Pastikan Nomer yang mau di isi tidak sedang terdaftar paketan lain.
+
+Setelah transaksi sukses: Masukkan kode SN / Kode Vouchernya ke nomer Pelanggan.
+Caranya: * 556 * Kode Voucher / SN #
+
+=============================================
+ .:INDOSAT SMS:.
+
+* *ISM5*  : 300 SMS ke sesama ,100 sms oprt lain, Tambah MSa Aktf 3 hari
+* *ISM10* : 600 SMS ke sesama,250  SMS optr lain, Tambah MSa Aktf  10hari
+* *ISM25*  : 2000 SMS ke sesama,500  SMS oprt lain, Tambah MSa Aktf  30hari
+
+Cek harga
+Ketik : Ha.ISM
+
+*Transaksi Isi Pulsa*
+Ketik : Nominal.No Hp Tujuan.PIN
+Contoh: iSM5.08567888889.1234
+
+Cek pulsa SMS indosat ```*555*1#``` Ok 
+=============================================
+
+*TELKOMSEL SMS*
+
+* *SS5* : 250 SMS All Opertor. Aktif 1 Hari.
+* *SS10* : 500 SMS All Opertor. Aktif 7 Hari.
+* *SS20* : 1500 SMS All Opertor. Aktif 30 Hari.
+* *SS25* : 2000 SMS All Opertor. Aktif 30 Hari.
+
+Cek Harga, Ketik : *HA.SS*  Kirim ke Center
+
+
+*Paket SMS Gift Telkomsel*
+* *TSG1* : Kuota *200 SMS* All Opr, 1 Hari
+* *TSG5* : Kuota *1.000 SMS* All Opr, 5 Hari
+
+Cek Harga, Ketik : *HA.TSG*  Kirim ke Center
+
+Transaksi Isi Pulsa
+Ketik : Nominal.No Hp Tujuan.PIN
+Contoh: SS5.0852222221.1234
+
+=============================================
+
+*Telkomsel Data BULK*
+
+Telkomsel Bulk :
+📌 *SB2* : *Kuota Utama 3GB* + 1Gb OMG (free Yuotube, FB dan IG), Aktiv 30 Hari
+📌 *SB4* : *Kuota Utama 5GB* + 2Gb OMG (free Yuotube, FB dan IG), Aktiv 30 Hari
+📌 *SB8* : *Kuota Utama 8GB* + 2Gb OMG (free Yuotube, FB dan IG), Aktiv 30 Hari
+📌 *SB12* : *Kuota Utama 12GB* + 2GB OMG (free Yuotube, FB dan IG), Aktiv 30 Hari
+📌 *SB25* : *Kuota Utama 25GB* + 2GB OMG (free Yuotube, FB dan IG), Aktiv 30 Hari
+📌 *SB35* : *Kuota Utama 50GB* + 2Gb OMG (free Yuotube, FB dan IG), Aktiv 30 Hari
+
+Telkomsel Bulk Combo :
+📌 *SB6* : *Kuota Utama 4,5GB* + 2 Gb (free Yuotube, FB dan IG) + *100 Menit Ke Sesama* + 60 SMS Tsel , aktiv 30 Hari
+📌 *SB19* : *Kuota Utama 17Gb* + 2 Gb (free Yuotube, FB dan IG) + *300 Menit & 100 SMS Ke Sesama* , aktiv 30 Hari
+📌 *SB30* : *Kuota Utama 28Gb* + 2 Gb (free Yuotube, FB dan IG) + *600 Menit & 200 SMS Ke Sesama* , aktiv 30 Hari
+
+
+Format Transaksi :
+* *CEK HARGA* : (Khusus cek Harga tambahkan awalan *H* sebelum kode, *HSB2, HSB4, HSB8 dst)
+- CEK.HKodeLayanan.NomerTujuan.PinTRX
+Contoh Cek Harga TELKOMSEL DATA :
+- CEK.HSB2.082232627999.1234
+
+*Isi Kuota* :
+Ketik : Nominal.No Hp Tujuan.PIN
+Contoh: SB2.08567888889.1234
+
+kIRIM KE CENTER TRANSAKSI
+ _Untuk produk telkomsel yang berlabel *BULK* Harga berubah ubah sesuai zona, beritahukan harga setelah transaksi berhasil_
+
+=============================================
+*Produk Digital Telkomsel Data 25 Ribuan (1GB)* :
+📌 *SG1* : Kuota Utama 1GB + 2GB KuotaGames, Aktiv 30 Hari
+📌 *SM1* : Kuota Utama 1GB + 1GB Kuota Music, Aktiv 30 Hari
+
+Cek harga : H.SG1.pin atau H.SM1.pin
+Tranksaksi : Kode.Nomer.pin
+
+Kirim ke center transaksi.
+=============================================
+
+Isi Ulang SALDO Go-Jek
+
+* *GJ5* : TOP UP SALDO Go-Pay 5.000
+* *GJ10* : TOP UP SALDO Go-Pay 10.000
+* *GJ20* : TOP UP SALDO Go-Pay 20.000
+* *GJ50* : TOP UP SALDO Go-Pay 50.000
+* *GJ100* : TOP UP SALDO Go-Pay 100.000
+* *GJ150* : TOP UP SALDO Go-Pay 150.000
+
+Cek Harga, Ketik : *HA.GJ*  Kirim ke Center
+
+Transaksi Isi Pulsa
+Ketik : Nominal.No Hp.PIN 
+_No Hape : Nomer yang terdaftar diaplikasi Go-Jek_
+Contoh: GJ5.0852222221.1234
+=============================================
+
+Isi Ulang SALDO GRAB 
+
+* *GB10* : TOP UP SALDO GRAB 10.000
+* *GB20* : TOP UP SALDO GRAB 20.000
+* *GB25* : TOP UP SALDO GRAB 25.000
+* *GB40* : TOP UP SALDO GRAB 40.000
+* *GB50* : TOP UP SALDO GRAB 50.000
+* *GB100* : TOP UP SALDO GRAB 100.000
+* *GB150* : TOP UP SALDO GRAB 150.000
+* *GB200* : TOP UP SALDO GRAB 200.000
+* *GB300* : TOP UP SALDO GRAB 300.000
+* *GB500* : TOP UP SALDO GRAB 500.000
+
+
+Cek Harga, Ketik : *HA.GB*  Kirim ke Center
+
+Transaksi Isi Pulsa
+Ketik : Nominal.No Hp.PIN 
+_No Hape : Nomer yang terdaftar diaplikasi GRAB_
+Contoh: GB50.0852222221.1234
+=============================================
+*INDOSAT PULSA TRANSFER, Harga Miring*
+
+* *ITP5* : Transfer Pulsa 5.000
+* *ITP10* : Transfer Pulsa 10.000
+* *ITP15* : Transfer Pulsa 15.000
+* *ITP20* : Transfer Pulsa 20.000
+* *ITP25* : Transfer Pulsa 25.000
+
+
+Cek Harga, Ketik : *HA.ITP*  Kirim ke Center
+
+Transaksi Isi Pulsa
+Ketik : Nominal.No Hp.PIN 
+Contoh: ITP5.0857222221.1234
+=============================================
+*Cara Transksi PLN TOKEN ( Prabayar)*
+
+Kode PLN Token:
+* *PLN20* : Pulsa Token Rp 20.000
+* *PLN50* : Pulsa Token Rp 50.000
+* *PLN100* : Pulsa Token Rp 100.000
+* *PLN200* : Pulsa Token Rp 200.000
+* *PLN500* : Pulsa Token Rp 500.000
+* *PLN100* : Pulsa Token Rp 1.000.000
+
+Cek Harga PLN : HA.PLN
+* Transaksi isi : Kode.NomerMeter.Pin
+* Contoh isi : PLN20.60014646453.1234
+
+* Cek Status / Nomer Token trx : Status.Nomer.Pin
+* Contoh : status.60014646453.1234
+
+* Contoh Laporan setelah transksi *berhasil* :
+
+ISAT Data Naik -  PLN20 32138076313 BRHASIL, Hrg:20.300 SN: 3312-3840-2690-7925-0199/HARIYADI/B1/1300VA/18,9.. Saldo.296.851@02/10/2019 20:49:35 #ENIXA CELL
+
+Serahkan Nomer SN Ke Pelanggan, untuk dimasukkan ke meteran listrik.
+
+* Cek Nama / PEmilik meter : Cek.PLNPREPAID.Nomer.Pin
+* Contoh : Cek.PLNPREPAID.32138076313.1234
+* Contoh Laporan cek Nama 
+```CEK``` 
+```PLNPREPAIDINQ```
+```METER:32138076313```
+```IDPEL:515031463729```
+```NAMA:HARIYADI```
+```TD:B1/1300VA```
+
+=============================================
+
+🔊KINI ISI DIAMOND MOBILE LEGEND
+BISA LEWAT CAHAYA RELOAD 👏👏👏
+
+✔ Tanpa joki...
+✔ Tanpa pinjem akun...
+✔ Diamond langsung masuk..
+
+📲 🕹 DIAMOND MOBILE LEGEND
+🎮GML11 :  (11 Diamond)
+🎮GML14 :  (14 Diamond)
+🎮GML17 :  (17 Diamond)
+🎮GML19 :  (19 Diamond)
+🎮GML33 :  (33 Diamond)
+🎮GML36 :  (36 Diamond)
+🎮GML50 :  (50 Diamond)
+🎮GML74 :  (74 Diamond)
+🎮GML83 :  (83 Diamond)
+🎮GML184 :  (184 Diamond)
+🎮GML220 :  (220 Diamond)
+🎮GML275 :  (275 Diamond)
+🎮GML366 :  (366 Diamond)
+
+
+👉 Cara Transaksi : Kode.NomorID.PIN
+👉 Cek Harga : HA.GML
+
+👉 Contoh : ID Mobile Legend kamu 12345678 (1234) jadi contoh formatnya GML11.123456781234.1234
+
+👉 Cara mendapatkan Nomor ID Mobile Legend :
+- Buka Profil yang ada disebelah kiri atas
+- Dibawah Nickname terdapat Nomor ID nya
+
+Yuks MaBar, Semangat PUSH RANK, sapa tau jadi altet Timnas E-Sport Indonesia 🤭🤭
+=============================================
+Kode Voucher WIFI.ID sudah tersedia di Cahaya Reload
+
+Voucher internet *_Wifi.id_* (banyak tersedia di berbagai lokasi) dari telkom
+
+📶 Wi5 : Voucher Wifi.id 5k
+📶 Wi20 : Voucher Wifi.id 20k
+📶 Wi50 : Voucher Wifi.id 50k
+
+*Rinciannya* : 
+1. Rp 5.000 memberikan akses wifi.id dengan masa aktif selama 6 jam untuk Sumatera, Jawa dan Balinusa, 4 jam untuk Kalimantan dan Sulawesi, serta 2 jam untuk Papua dan Maluku
+2. Rp 20.000 memberikan akses wifi.id selama satu minggu (7 x 24 Jam)
+3. Rp 50.000 yang memberikan akses wifi.id selama satu bulan (30 x 24 jam)
+
+Cek Harga : *Ha.Wi*
+Kirim ke Center Cahaya
+
+👉 Pengguanaan Voucher: 
+setelah transaksi sukses akan mendapat laporan seprti berikut :
+```
+WI5 085717000131 SUKSES, Hrg:5.200 SN: 88303301863,12954633113182. Saldo.-110.400@17/09/2018 12:02:26 #CAHAYA RELOAD
+```
+👉 Konekan device wifi ke @wifi.id
+👉 Setelah konek, biasanya anda akan diantar ke laman broser / buka manual dari brower kealamat wifi.id
+👉 Login dengan username dan password
+contoh dari laporan di atas 
+```
+username : 88303301863
+password : 12954633113182
+```
+👉 Setelah berhasil login, anda sudah bisa berinternet
+=============================================
+*Pembayaran PDAM via CAHAYA RELOAD*
+
+Format Transaksi :
+* *CEK TAGIHAN* : CEK.KodeLayanan.NomerSambung.PinTRX
+* *BAYAR TAGIHAN* : BAYAR.KodeLayanan.NomerSambung.PinTRX
+_(sebelum melakukan pembayaran wajib untuk cek tagihan dulu)_
+
+*Kode Layanan:*
+🚰 PDAM Kota Madiun : *PKTMAD*
+🚰 PDAM Kab Madiun : *PKBMAD*
+🚰 PDAM Kab Magetan : *PMGT*
+🚰 PDAM Kab Ponorogo : *PPON*
+🚰 PDAM Kab Wonogori : *PWON*
+🚰 PDAM Kab KarangAnyar : *PKRA*
+🚰 PDAM Kab Sragen : *PSRN*
+🚰 PDAM Kab Ngawi : *PNGW*
+
+Contoh Transaksi PDAM :
+- CEK.PMGT.461450100002870.1234
+- BAYAR.PMGT.461450100002870.1234
+
+Kirim ke Center TRX ya kak..
+
+Struk bisa di cetak di 
+https://centertrx.com/cetakstruk/#
+=============================================
+*Pembayaran Tagihan Listrik Bulanan*
+
+Format Transaksi :
+⚡💡 *CEK TAGIHAN* : CEK.PLN.NomerMeter.PinTRX
+⚡💡 *BAYAR TAGIHAN* : BAYAR.PLN.NomerMeter.PinTRX
+_(sebelum melakukan pembayaran wajib untuk cek tagihan dulu)_
+
+Contoh Transaksi PLN :
+- CEK.PLN.31525552.1234
+- BAYAR.PLN.31525552.1234
+
+Kirim ke Center TRX
+
+Struk bisa di cetak di 
+https://centertrx.com/cetakstruk/#
+=============================================
+*Pembayaran Tagihan Indihome / Telkom Bulanan*
+
+Format Transaksi :
+⚡💡 *CEK TAGIHAN* : CEK.TELKOM.NomerMeter.PinTRX
+⚡💡 *BAYAR TAGIHAN* : BAYAR.TELKOM.NomerMeter.PinTRX
+_(sebelum melakukan pembayaran wajib untuk cek tagihan dulu)_
+
+Contoh Transaksi TELKOM :
+- CEK.TELKOM.31525552.1234
+- BAYAR.TELKOM.31525552.1234
+
+Kirim ke Center TRX
+
+Struk bisa di cetak di 
+https://centertrx.com/cetakstruk/#
+=============================================
+*Pembayaran Tagihan BPJS KESEHATAN Bulanan*
+
+Format Transaksi :
+⚡💡 *CEK TAGIHAN* : CEK.BPJS.NomerVA.PinTRX
+⚡💡 *BAYAR TAGIHAN* : BAYAR.BPJS.NomerVA.PinTRX
+_(sebelum melakukan pembayaran wajib untuk cek tagihan dulu)_
+
+Contoh Transaksi BPJS :
+- CEK.BPJS.00031525552.1234
+- BAYAR.BPJS.00031525552.1234
+
+Kirim ke Center TRX
+
+Struk bisa di cetak di 
+https://centertrx.com/cetakstruk/#
+=============================================
+*Pembayaran Tagihan Finance / Kredit via CAHAYA RELOAD*
+
+Format Transaksi :
+* *CEK TAGIHAN* : CEK.KodeLayanan.NomerKontrak.PinTRX
+* *BAYAR TAGIHAN* : BAYAR.KodeLayanan.NomerKontrak.PinTRX
+_(sebelum melakukan pembayaran wajib untuk cek tagihan dulu)_
+
+Kode Layanan :
+💸 *FIF* : FIF Finance
+💸 *ADIRA* : Adira Finance
+💸 *BAF* : Bussan Auto Finnace
+💸 *OTO* : Oto Finance
+💸 *WOM* : WOM Finance
+💸 *MAF* : Mega Auto Finance
+💸 *MPM* : MPM Finance
+💸 *RDN* : Radana Finance
+💸 *KP* : Kredit Plus (Finansia) Finance
+💸 *AP* : Artha Prima Finance
+
+Contoh Transaksi FINANCE :
+- CEK.ADIRA.030318100580.1234
+- BAYAR.ADIRA.030318100580.1234
+
+Kirim ke Center TRX
+
+Struk bisa di cetak di 
+https://centertrx.com/cetakstruk/#
+=============================================
+
+Isi SALDO E-Money SALDO *DANA BUKALAPAK*
+
+💸 *DN10* : SALDO 20k *DANA BUKALAPAK*
+💸 *DN20* : SALDO 20k *DANA BUKALAPAK*
+💸 *DN25* : SALDO 25k *DANA BUKALAPAK*
+💸 *DN50* : SALDO 50k *DANA BUKALAPAK*
+💸 *DN75* : SALDO 75k *DANA BUKALAPAK*
+💸 *DN100* : SALDO 100k *DANA BUKALAPAK*
+💸 *DN150* : SALDO 150k *DANA BUKALAPAK*
+💸 *DN175* : SALDO 175k *DANA BUKALAPAK*
+💸 *DN200* : SALDO 200k *DANA BUKALAPAK*
+
+
+Cek Harga, Ketik : *HA.DN*  Kirim ke Center
+
+Transaksi Isi
+Ketik : KodeNominal.No Hp Terdaftar.PIN 
+Contoh: DN200.0857222221.1234
+=============================================
+
+Isi SALDO E-Money SALDO *OVO*
+
+💸 *OVO20* : SALDO 20k *Saldo OVO*
+💸 *OVO25* : SALDO 25k *Saldo OVO*
+💸 *OVO30* : SALDO 30k *Saldo OVO*
+💸 *OVO50* : SALDO 50k *Saldo OVO*
+💸 *OVO75* : SALDO 75k *Saldo OVO*
+💸 *OVO100* : SALDO 100k *Saldo OVO*
+💸 *OVO150* : SALDO 150k *Saldo OVO*
+💸 *OVO175* : SALDO 175k *Saldo OVO*
+💸 *OVO200* : SALDO 200k *Saldo OVO*
+
+
+Cek Harga, Ketik : *HA.ovO*  Kirim ke Center
+
+Transaksi Isi
+Ketik : KodeNominal.No Hp Terdaftar.PIN 
+Contoh: ovo200.0857222221.1234
+
+*SALDO OVO bisa dipakai buat belanja Online Via TOkoPedia, Alfacart, Belanja di Alfa/Indomart dsb*
+_Tentunya banyak promo cashback dan potongan harga jika bayar pakai OVO_
+=============================================
+
+Isi SALDO E-Money SALDO *ShopeePay*
+
+💸 *ESP25* : SALDO 25k *Saldo ShopeePay*
+💸 *ESP50* : SALDO 50k *Saldo ShopeePay*
+💸 *ESP75* : SALDO 75k *Saldo ShopeePay*
+💸 *ESP100* : SALDO 100k *Saldo ShopeePay*
+
+
+Cek Harga, Ketik : *HA.ESP*  Kirim ke Center
+
+Transaksi Isi
+Ketik : KodeNominal.No Hp Terdaftar.PIN 
+Contoh: ESP20.0857222221.1234
