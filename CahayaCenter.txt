@@ -1,4 +1,4 @@
-
+Selamat Pagi, Selamat Beraktivitas kembali  ☺️☺️
 Transaksi Lancar, Monggo di maksimalkan
 
 
@@ -10,13 +10,12 @@ Transaksi Lancar, Monggo di maksimalkan
 ▶ 087758396999
 
 *TELKOMSEL* :
-▶ 082232627999
 ▶ 082257204999
 ▶ 082244937779
 ▶ 082231333329
 ▶ 082231333318
 ▶ 082231333316
-▶ 082245231232
+▶ 
 
 *INDOSAT* :
 ▶ 085708942999
@@ -29,7 +28,8 @@ Transaksi Lancar, Monggo di maksimalkan
 
 
 Telegram Center 1 : @Cahaya1_bot
-
+▶ ~082245231232~ *HANGUS, NOMER TIDAK DIPAKAI LAGI*
+▶ ~082232627999~ *HANGUS, NOMER TIDAK DIPAKAI LAGI*
 
 =================
 Format Transaksi Cahaya Reload
@@ -58,15 +58,7 @@ Contoh: T.08126677889.-100000.1234
 - Set Markup Harga DL
 Ketik : M.KODE DL.JUMLAH UP.PIN
 Contoh: M.CR0052.50.1234
-
-- Cek Komisi
-Ketik : Kom.PIN
-Contoh: Kom.1234
-
-- Tukar Komisi
-Ketik : TK.PIN
-Contoh: TK.1234
-
+7
 -Ganti PIN
 Ketik : G.PinLama.PinBaru
 Contoh: G.5758.1234
@@ -132,15 +124,39 @@ KHUSUS UPLINE :
 * AKtivkan DL : AKTIF.ID.PIN
 * Non Aktivkan Downline : NONAKTIF.ID.PIN
 * Lihat DL : LD
+* SET SELISIH HARGA : M.IDDownline.JUMLAH.PIN
 * CEK SELISIH HARGA : CS.IDDownline
-* AMBIL KOMISI : TK.PIN
 * CEK KOMISI : KOM.PIN
+* TUKAR KOMISI JADI SALDO : TK.PIN
 * CEK TOTAL TRX Oleh Upline : TRXRS.NoHape.Tanggal.PIN
 
 
 
 =================================================
+Link Download Aplikasi Cahaya Reload ( IRMA )
 
+https://play.google.com/store/apps/details?id=irs.mobile.app
+
+Panduan Singkat Saat setelah install:
+- Buka Apliksi IRMA
+- Masukkan: CahayaMGT
+- Pilih Lanjut > Lanjut > Lanjut > Mulai Jualan
+- Pilih Akun GOOGLE
+- Pilih LOGIN Untuk yang sudah terdaftar
+- Masukkan Nomor HP yang sudah Terdaftar di Cahaya Reload
+
+- Atau DAFTAR Untuk yang belum terdaftar
+- Masukkan Nomor HP yang akan didaftar di Cahaya Reload
+
+- Nanti Ada SMS verifikasi
+- Silahkan Masukkn Kode Tersebut ke APP ( KODE TERSEBUT JANGAN SAMPAI ORANG LAIN TAU)
+
+- Apabila cendela masukkan pin Masukkan pin Transaksi anda dan Pilih LOGIN
+- Aplikasi siap d pakai
+
+
+=================================================
+https://vtri.tri.co.id/pretups/
 PasWord WEB VTRI (895630964979) : CrmR_021
 
 indosat : 
@@ -153,3 +169,60 @@ Password anda telah direset oleh INDOSAT. Password baru anda 378849L/ TID :  118
 ```Info : Transaksi Belum Dapat Balsan Silahkn d kirim Ulang...```
 _Habis Mati Listrik_
 
+=================================================
+Digipos >> 
+User : kur1048031
+Password : Br159753
+Pin NGRS : 123321
+
+Digipos Link Aja : 123321
+Identitas Anda sebagai operator dari KURNIAWAN CELL - 3200029688 berhasil diaktifkan pada
+
+nomer VA LA BCA : 191109901644616
+nomer VA LA BRI : 911999901644616
+
+=================================================
+
+Vtri Web
+Nomer : 895630964979
+Pin : 159753
+Password : 159753Br
+
+
+=================================================
+
+parsing : 5k: *181*2*2*5#;<tujuan>;1;<pin>
+
+=================================================
+
+https://app.irmastore.id/login
+Email IRMA : cahayareload.mdn@gmail.com
+Password : 159753Br
+
+
+Hp TP ISAT : 081515953999  
+
+=================================================
+
+ID RITA ( Tri Data )
+Id : 00053820
+No Trx : 089619039230
+a/n Barokah Cell Madiun
+
+
+Id : 00073344
+No Trx : 089699295665 
+
+=================================================
+
+*Tambah Deposit via Transfer Bank*
+
+*BRI* = 0552-0100-9024 539
+*BCA* = 1771-718-553
+*Mandiri* = 171-000-340-7478
+atas nama *Septian S*.
+
+Setelah transfer Mohon konfirmasikan ke WA ini atau dinomer 087758203999 ( https://wa.me/6287758203999 )
+sertakan bukti transfer dan Nomer Anda yang terdaftar
+
+🙏🙏
