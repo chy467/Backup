@@ -1,0 +1,2085 @@
+
+=====FORMAT REQUEST=====
+
+- Transaksi Isi Pulsa
+Ketik : Nominal.No Hp Tujuan.PIN
+Contoh: 5.0812256789.1234
+
+- Transaksi 2x Ke Tujuan Sama
+Ketik : KodeNominal.No Hp Tujuan.2.PIN
+Contoh: 5.0812256789.2.1234
+
+- Transaksi Multi (Lebih Dari 1 Nomor Max 3)
+Ketik : nominal.tujuan.nominal.tujuan.pin
+contoh : 10.085655623873.25.087858436222.12345
+
+*note*
+_Apabila salah satu Pakai Kode Maka Dua2 nya Harus Pakai kode_
+contoh : id1.085655623873.i25.087858436222.12345
+
+- Cek Saldo/Deposit
+Ketik : *S.PIN*
+Contoh: S.1234
+
+- Format Ganti PIN
+Ketik : *G.PinBaru.PinLama*
+Contoh: G.5758.1234
+
+- Cek harga Per Nominal
+Ketik : H.kode produk *(Tanpa Pin ya bos)*
+Contoh : *h.s5*
+
+- Cek harga Semua Produk
+Ketik : *HRGALL.kode produk*
+Contoh : *HRGALL.s*
+
+ kirim ke center trx / Di menu Profile di aplikasi
+Pin baru tidak boleh berurut atau kembar,
+Contoh pin salah : 0000 / 1111 / 1234 / 4321 / 1122 / 3322 / 1212
+
+- Hapus id aplikasi irma   
+Ketik : REAPP.PIN
+Contoh : REAPP.1234
+
+- Cek Nomer yang Terdftar: 
+Ketik : LHP
+kirim ke center
+
+- TAMBAH NO HP Untuk TRANSAKSI
+Ketik : PAR.Nomor HP Pararel.PIN
+Contoh: PAR.081325325123.1234
+
+- Hapus NOMOR HP
+Ketik : Hapus.Nomor.Pin
+Contoh: Hapus.08575758.1234
+
+- Ganti Nomor 
+Ketik : GHP.NomorLama.NomorBaru.Pin
+Contoh: GHP.08545612315446.08123456789.1234
+
+- Daftar Downline: 
+DAFTAR.NAMAKONTER.ALAMAT.NOHP.Pin
+contoh : 
+DAFTAR.SABAR.MBAYEM.085867305611.1234
+
+- Transfer Deposit Downline
+Ketik : TF.NO HP.JUMLAH.PIN
+Contoh: Tf. 08126677889.100000.1234
+
+- Tarik Saldo Deposit Downline
+Ketik : TF.NO HP.- JUMLAH.PIN
+Contoh: Tf. 08126677889.-100000.1234
+
+- Set Markup Harga DL
+Ketik : MARKUP.KODE DL.JUMLAHUP(Mkasimal 200).PIN
+Contoh: MARKUP.CR3-15-4.50.1234
+
+- Lihat Saldo Downline
+Ketik : SRS.NO HP DOWNLINE.PIN
+Contoh: SRS.08126677889.1234
+
+- Lihat Kode ID Downline
+Ketik : LDL 
+*Tanpa Pin ya bos*
+
+- Cek Komisi
+Ketik : Komisi.PIN
+Contoh: Komisi.1234
+
+- Tukar Komisi
+Ketik : TUKAR.PIN
+Contoh: TUKAR.1234
+
+- Cek 5Transaksi Terakhir
+Ketik : LAST5.PIN
+Contoh: LAST5.1234
+
+- Rekap Transaksi
+Ketik : LAP.Tanggalbulantahun.pin
+Contoh: LAP.281217.pin
+
+- Cek Status Transaksi
+Ketik : STATUS.Nomor
+Contoh: STATUS.085655623873
+
+- LOCK Downline
+Ketik : LOCK.KodeDL.pin
+Contoh: LOCK.cr3- 131- 10.1234
+
+- bukaLOCK Downline
+Ketik : UNLOCK.KodeDL.pin
+Contoh: UNLOCK.cr3- 131- 10.1234
+
+- Ganti Nama Konter
+Ketik : GNAMA.nama
+Contoh: GNAMA.Barokah cell
+
+- Lihat Transaksi Downline
+Ketik : TRS.NO HP DOWNLINE.Tanggalbulantahun.PIN
+Contoh: TRS.08126677889.281217.1234
+
+- Transaksi Tanpa pin
+Ketik : Pinoff
+Cara Transaksi : nominal.nomor tujuan
+Contoh : 5.085655623873
+
+- Transaksi Menggunakan pin
+Ketik : Pinon
+Cara Transaksi : nominal.nomor tujuan.pin
+Contoh : 5.085655623873.1234
+
+- Cek Selisih Harga Dengan Downline
+Ketik : CH.KODE Produk
+Contoh : CH.Telkomsel
+Contoh : CH.Indosat
+Contoh : CH.Three
+*Tanpa Pin ya bos*
+
+- Ganti Selisih Produk
+Ketik : GS.KODE PRoDUK.BEsar Markup.Pin
+Contoh : GS.s5.100.1234
+
+✔ FORMAT KELUHAN
+Ketik : INFO.Keluhan
+Contoh  : INFO.Tolong bantu cek transaksi ke nomer 0855555777 
+
+kirim ke center trx / ke cs 087858436222 bisa via wa atau sms
+
+===================================================================
+
+```Semakin mudah dan simple bertransaksi pulsa di Barokah.```
+_Tersedia Aplikasi Android Barokah (irma)_
+
+*Link Download Aplikasi*
+
+https://play.google.com/store/apps/details?id=irs.mobile.app
+
+*Cara Login:*
+-  Ketik : *REAPP.PIN*
+  Contoh : *REAPP.1234*
+
+_*Kirim Via SMS / WA Ke Center*_
+-  Lanjut 
+-  *Buka Aplikasi Irma*
+-  Login pertamakali masuk id server masukkan: *BRMadiun*
+-  Lanjut Pilih *GOOGLE*
+-  Masukkan serverID *BRMadiun*
+-  Pilih *LANJUT*
+-  Pilih *Masuk* 
+-  *Masukkan Nomor HP di awali 08 yang sudah Terdaftar d Barokah Reload*
+-  *Pilih OTP Via SMS/Whtsapp*
+-  Nanti Ada *KODE verifikasi seperti contoh*
+-  _Kode OTP : 772078 kode ini bersifat RAHASIA, jangan berikan kepada siapapun, termasuk BAROKAH management_
+-  Silahkan *Masukkn Kode* Tersebut ke APP ( KODE TERSEBUT JANGAN SAMPAI ORANG LAIN TAU)
+-  Lanjut masukkan pin *Masukkan pin Transaksi anda* dan Pilih *LOGIN*
+-  Aplikasi siap d pakai
+
+
+===================================================================
+*PLN TOKEN PAKAI KODE PLN*
+*PLN20 / PLN50 / PLN100 / PLN200 / PLN500 / PLN1000*
+
+Cek Harga : *HRGALL.PLN*
+
+Format  TOKEN PLN :
+Ketik   :  Kodeproduk.NO_PLN.pin
+Contoh  : *PLN20.86035708717.1234*
+
+Isi TOKEN PLN *2x Sehari:*
+Ketik   :  Kodeproduk.NO_PLN.2.pin
+Contoh  : *PLN20.86035708717.2.1234*
+
+_Kirim ke center TRx_
+
+Jawaban dari Server :
+ Bismillah, SUKSES PLN20 86035708717 Hrg:20.650 SN:0480- 5835- 9595- 8039- 2222/HARTONO/R1/450/44,30 Saldo.230.450
+
+*Berikan ke Pembeli Token*
+ SN: 0480- 5835- 9595- 8039- 2222
+
+ _Agar di Masukkan ke Metran nya._
+
+*Cek NAMA PEMILIK PLN*
+Ketik   :  CEK.PLNPREPAID.NO_PLN.pin
+Contoh  : CEK.PLNPREPAID.32147981461.1991
+
+======================================================================
+
+Sehubungan dengan adanya Informasi yang kami terima dari Pihak PLN P2APST untuk transaksi Prepaid, ada informasi bahwa:
+
+Khusus Untuk kode meter 56, merk stand meter Melcoinda tidak bisa membeli token antara pukul 11.58 AM s/d 12.05 PM
+Dan SOP yang Melakukan transaksi pada jam tsb. dengan kode meter tsb agar diarahkan ke PLN setempat untuk di restitusi atau dilakukan pergantian
+
+Demikian kami sampaikan atas perhatian serta kerjasamanya kami ucapkan terimakasih.
+
+NB: Yang pending awalan 56 mohon ditunggu sampai diatas jam 12.05 yaa.. terimakasih
+
+Berlaku Untuk Setiap Hari 🙏
+
+======================================================================
+
+*TOTAL KWH MELEBIHI BATAS GUNAKAN NOMINAL YANG LEBIH KECIL*
+
+artinya anda harus membeli nominal dibawah transaksi yang gagal. 
+Misal anda mendapat respon TOTAL KWH MELEBIHI BATAS ketika transaksi TOKEN Rp 100.000 
+maka silahkan di coba Rp 50.000 jika masih gagal juga turunkan sampai Rp 20.000,- 
+ jika masih gagal silahkan untuk menghubungi call center PLN di nomor Tlp. 123.
+Menurut Informasi yang kami dapatkan dari Call Centre Rumus batas pembelian TOKEN KWH adalah : 
+(DAYA TERPASANG X 720 JAM / 1000) Ilustrasi : Jika daya 450 Watt maka perhitungannya adalah :
+ {( 450 X 720 ) / 1000} = 324 KWH 
+*jadi dalam sebulan tidak boleh melakukan pembelian melebihi 324 KWH.*
+===================================================================
+
+https://www.idex- portal.xl.co.id/aprm- portal/maindispatcher.do- homeEvent=true
+
+
+dwex_muncrut@yahoo.com        password : Dwex123.
+
+Your password on APRM Portal was successfully changed, please find below your new credentials:
+
+User name: CMP- SERVER4
+Password:  Apm1JKgrE0EiodC3
+===================================================================
+
+[27/1 14.38] Windu Smartfren: Siang,
+[27/1 14.39] Windu Smartfren: Just info untuk reedem koinsmart nya sudah bisa di lakukan
+[27/1 14.40] Windu Smartfren: Cara reedem bisa lewat sms dengan format
+
+tukar.eload.jumlahkoin
+Kirim 9046
+[27/1 14.41] Windu Smartfren: Maksaimal reedem tgl 31. Jadi jgn sampai kelewat 🙏🏻
+[27/1 14.42] Windu Smartfren: Cara cek koin
+
+Ketik : smartkoin
+Kirim: 9046
+[27/1 14.44] Windu Smartfren: Contoh format
+tukar.eload.100000
+Kirim 9046
+
+username smartfreen 88235085857: EJD16715  password : 159753bR_
+===================================================================
+
+Griya bayar
+
+<< 21:39:47
+Selamat Bergabung! Kode Loket: owbarokah_reload User ID: 635765LOKET, Password: 3oua73u6 / 159753br pin : 159753 , User Report: 635764admin, Password: 8oea5oio, Ketik: FORMAT
+
+mac: 00-24-21-7d-f9-f9
+
+
+Saldo Anda sekarang Rp.|, Fee
+
+===================================================================
+INFO :
+-  Penambahan SALDO Via TRANSFER BANK Buka Setiap Hari (Termasuk Hari Minggu).
+-  Request TopUP Deposit Dilayani Setiap Hari PUKUL 09:00 s/d 20:59, Kecuali Hari Minggu tutup.
+-  Hari MINGGU tidak melayani REQUEST TOPUP Deposit by SMS (Setiap SMS Request diabaikan).
+
+DDS (Distribution Dealer System / Sistem Pendistribusian Dealer)
+
+Format permintaan saldo (Lebih Flexible):
+-  NoMaster.jml.pin
+-  NoMaster,jml,pin
+-  NoMaster jml pin
+-  NoMaster,jmh.pin
+-  Barokah.NoMaster.jmh.pin
+-  Barokah NoMaster jml pin
+-  Barokah,NoMaster,jml.pin~ *GANGGUAN*
+
+*) Sekarang Bisa pakai spasi, titik, koma atau Kombinasi ketiganya untuk pemisah kata.
+
+*Minta SALDO Barokah Reload*
+ketik : NoMaster.jml.pin
+Contoh :08123456789.100000.1234
+
+ *kirim ke CENTER SALDO:*
+  -  085903718747 (SMS) 
+  -  081233540452 (SMS) 
+  -  085807443336 (SMS) 
+  -  082257996607 (WhasstApp)
+
+*Buka Senin sampai Sabtu 09:00 -  S/D 21:00* (MINGGU TUTUP)
+
+Keluhan Yang Berhubungan Dengan SALDO bisa japri ke admin di Nomor Berikut :
+*Admin barokah:*
+-  082257996607 (SMS)
+-  087858488800 (Telp / Telegram)
+-  081229426763 (WA)
+
+*Ingat Sebentar Lagi Saldo TUTUP*
+
+*Kalau Mau isi saldo lagi dalam sehari, Pastikan nominal tidak sama dengan sebelumnya*
+
+-  085727582292 ( sms/telp/wa/telegram)
+
+_NB:  Cara ini Hanya Bisa & Sukses Bagi User Yang Daftar Via Sales Barokah Reload. Selain User TSB Deposit Bisa Via Transfer Bank_
+
+untuk area madiun dan sekitarnya kaka bisa registrasi ulang dengan sales kami
+1. Yono ( http://wa.me/6285855522969 )
+2. Karmin ( http://wa.me/628562157436 )
+
+untuk area ngawi dan sekitarnya :
+1. Eldi ( http://wa.me/6285791062131 )
+2. Totok ( http://wa.me/62816264490 )
+
+untuk area caruban dan sekitarnya :
+1. Yoko ( http://wa.me/6285791207989 )
+2. Jarno ( http://wa.me/6285646674095 )
+
+silahkan ditanyakan ke sales sales kami kak
+=================================================================
+INFO🚦INFO🚦INFO🚦
+FORMAT KHUSUS SALES DI DDS
+
+- Manual top up : TF.NOMERDOWNLINE.JUMLAH
+- Lock Agen DDS : TUTUPDDS.NomerDownline
+- Buka lock DDS : BUKADDS.NomerDownline
+- Ganti master dds: GANTIMASTER.NOMERLAMA.NOMERBARU
+- Rubah limit dds: UBAHLIMIT.NOMER.JUMLAHLIMIT
+- Cek status agen: STATUS.NOMER
+- Cek Permintaan Agen per Hari: REKAP.NOMER
+
+Note:
+Kirim ke center saldo
+Semua format tanpa pin,
+dan pakai nomer hp agen
+klo pakai kode agen tidak bisa
+
+=================================================================
+- Madiun :  Jl. S. Parman, Oro-oro Ombo, Kec. Kartoharjo, Kota Madiun, Jawa Timur 63119
+ _https://goo.gl/maps/vYajakLWKbnztU4HA_ (Ruko Selatan carefour depan warung makan bu wo )
+*Jam Buka 09:00 Pagi  Sampai Jam 16:00 Sore*
+
+- Caruban : Jl. Panglima Sudirman 47 Caruban _https://goo.gl/maps/eBDzRwypekgYcWXX8_  ( Depan Taman Caruban )
+*Jam Buka 08:00 Pagi  Sampai Jam 17:00 Sore*
+
+- Ngawi :  perempatan Tiara Swalayan ke timur. Depan SMK Panter. Selatan jalan. Ruko pintu harmonika biru
+*Jam Buka 08:00 Pagi  Sampai Jam 20:30 Sore*
+
+
+
+===================================================================
+- Madiun : Jl. thamrin nomor 95 kota madiun ( https://maps.app.goo.gl/Z66WS1zdkMkRAhea9 )
+*Jam Buka 09:00 Pagi  Sampai Jam 16:00 Sore*
+
+===================================================================
+
+- - -  SALES DAN KOLEKTOR BAROKAH RELOAD - - - 
+
+Jarno   : 085646674095
+nyono   : 081973222284,085855522969
+muttaqin  : 081946271573,085749991903,082337361903
+karmen   : 08562157436,089622387646
+eldy widyanto  : 085791062131,085736547076,085335736111
+sito   : 081946433575,085708356625
+suyoko   : 085791207989
+amir   : 081946333344,085745012777,081216839777
+admin sulis  : 081806323946
+DDS   : 087858488800,
+finance barokah : 087758787575,085707000053,085104969993,083845236000,085855050585
+pak mar  : 081914888889
+cs inal    : 081946066600
+cs septyan  : 085717000131
+riris     : 085727582292, 081235326663
+TOTOK    : +628162644
+
+NO TELP KANTOR CARUBAN  : 0351 -  3890230
+
+kantor magetan : 8197655
+komplin nya
+08001227464
++=================
+
+token masjid madiun regency
+
+46002438466
+
+MASJID AL AMANAH/S2/5500
+
+======================================================
+BCA BISNIS PAK HERRY
+
+https://vpn.klikbca.com  
+
+-  Pertama Kali
+ USER NAME: ibsaaxsestherryana0002
+ PASSWORD : APPLY 1 Key Pak Herry
+
+pilih bca BISNIS pak heri
+-  Login lagi
+  corporate id : ibsaaxsest
+  user id : herryana0002
+  Password: Apply 1 key Pak herry
+
+  No rekening 3280165360
+  no kartu : 6019 0045 2303 7404
+
+
+Punya    BAROKKAH
+USER NAME: ibsheraxseaxsest890                 
+  corporate id :  ibsheraxse
+  user id : axsest890
+===================================================================
+
+https://mib.bankmandiri.co.id/sme/common/login.do?action=logoutSME
+
+MANDIRI PAK HERRY
+
+USER MAKER
+COMPANY ID : FG91776
+USER ID : HERRYANA01
+PASS : Mr592969
+
+USER APPROVER
+COMPANY ID : FG91776
+USER ID : HERRYANA02
+PASS : Ax202175
+===================================================================
+MANDIRI WPP
+
+USER MAKER
+COMPANY ID : FA75927
+USER ID : WIDODO12
+PASS : Bgs12345
+
+USER APPROVER
+COMPANY ID : FA75927
+USER ID : WIDODO34
+PASS : Bgs12345
+===================================================================
+https://mib.bankmandiri.co.id/sme/common/login.do?action=logoutSME
+
+MANDIRI BAROKAH
+
+Nek mandiri 1710029888883
+Company id : FG02872
+USER ID : AXSEST1
+PASS : Admin070
+
+Iku mandiri bisnis mas
+===================================================================
+BRI BAROKAH
+
+Nek BRI 634-501-016-941-531
+User Id : Madiun592969
+Pass :  Ax202175
+
+no ATM : 6013014087439421
+
+BRI BISNIS BAROKAH
+- Corporate Id : IBBHM81383
+- Username : USRS1
+- Password : Mr592969
+
+https://newbiz.bri.co.id/
+
+===================================================================
+DIGIPOS PAK HERRY WPP
+
+LINK = https://digipos.telkomsel.com/digipos/login
+Username = gm_cluster_ponorogo ngawi
+Password = W1dodoprajaperkaSA
+pin Transfer stok = 202175
+
+===================================================================
+
+KANTOR MAIDIUN KIPO  : 0351- 452734 
+
+NOMOR PETUGAS KIPO MADIUN : 085790404597 
+
+id pp : KPO010050  carubancell
+
+KIPO :  Username ; Carubancell    Pass : 225588Br
+
+NO REK KIPO : 037801001020307  PT. BANGUN USAHA ENERGI PERKASA 
+
+===================================================================
+ordercr1@yahoo.com :XX159753b
+order_barokah@yahoo.cm :B159753b
+speedwuzz78@yahoo.com :B159753b
+ddscenter@jabbim.com         Pass: cEntertrx01
+
+- - - - - - - - - -  Jaber TRX barokah - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+trxsipp@fujabber.com         Pass: 159753
+speedwuzz78@fujabber.com       Pass: 159753
+speedwuzz79@jabb.im          Pass: 159753
+barokahcr3@jabbim.com   Pass: : : 159753Br
+barokahcr2@xmpp.jp.    Pass: : 159753Br
+speedjoss@jabb.im
+barokahcr1@xmpp.jp.  : 159753Br
+barokahcr3@xmpp.jp.  : 159753Br
+
+H2h IRS
+trxjoss   PASS : 159753
+
+retailbarokah@xmpp.jp : 159753Br
+barokah01@xmpp.jp : 159753Br
+barokah02@xmpp.jp : 159753Br
+
+
+- - - - - - - - - -  Jaber TRX sinar - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+sinar01@xmpp.jp.  : 159753Br
+
+admcahayareload@gmail.com    pass : Caruban1977
+cahayareload.mdn@gmail.com    pass : Caruban1977
+
+Email pak Herry : axsestherry2021@gmail.com  pass Mr2021./
+
+email : axsest890@gmail.com
+pasword : Mr202175./
+
+592969
+
+ddssaldo@gmail.com    ..pass :A159753bn
+
+barokahbilingmdn@gmail.com  ..pass :A159753bn
+
+barokahadm1@gmail.com 
+
+barokahreloadmdn@gmail.com   ..pass : bR159753Cs
+
+barokahcr1@gmail.com    : pass >   cEntertrx01
+ 
+trxsiip@gmail.com    ..pass ; Br159753MDn
+
+trxbro@gmail.com    ..pass ; 159753br
+
+trx0k1@gmail.com     ..pass : kUecucur3nak
+
+trxwuzz@gmail.com    ..pass ; Br159753
+
+kqieyqafgtrzbxsr
+
+=========== Login Gtalk Server ===========
+
+vxeamyuchmbgdgfi : pasword dds
+
+fuxpdgtjigvrolpf : pasword centerGtalk 
+
+bkvpfmnbohufwfih : pasword trxsipp
+
+=========== =========== ===========
+
+mas, emailnya bella ganti ini ya  barokahadmmdn@gmail.com
+
+lsatpam935@gmail.com      pas : lukmaN01
+
+mdn.marsudi@gmail.com
+
+sarangan.sukses@hotmail.com
+Pass: Br159753
+
+
+email twitter pak herry : 
+trxsiip@gmail.com
+password : Mr202175
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   Alamat Email Cvs Barokah :
+
+   Pak mar  : barokahmdn@gmail.com
+   Operator : barokahreloadmdn@gmail.com
+   admin sulis : barokahadm2@gmail.com
+   admin riris : barokahbilling3@gmail.com
+   admin bella : barokahadmmdn@gmail.com
+   admin ngawi : barokahadmngawi@gmail.com
+   finance henik : financebarokah@gmail.com
+  finance 2 Aswin : Barokahfinance2@gmail.com
+  finance 2 Aswin : financebarokah2@gmail.com
+
+   sales sito : wedoes22@gmail.com
+   sales totok : cmp.mdtotokngawi@gmail.com
+   sales eldy : eldywidyanto@gmail.com
+   sales KARMIN: karmincaruban@gmail.com
+   sales NYONO : niyonobarokah@gmail.com
+   Sales hery  : Luckyant666@gmail.com
+   kolektor arif : timnasprancis68@gmail.com
+   kolektor amir : amirmiftah0@gmail.com
+   kolektor takin : gita.melisaaa@gmail.com
+   kolektor onggo :
+   kolektor jarno : 
+   kolektor yoko :
+   kolektor Riki  : Rikisetiaku@gmail.com
+   kolektor Prapto : praptorezha@gmail.com
+
+   Mohon Di isi Yang masih Kosong Agar mempermudah Team Barokah dalam Menyampaikan Info data By email.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+AD0045  212 REJOMULYO REJOMULYO )>> 212rejomulyo@gmail.com : Pass> Abi159753
+
+USTAD LUKMAN ( CR38- 933 KOPRASI ABI MAKMUR)>> koperasiabimakmur@gmail.com : Pass> Abi159753
+USTAD LUKMAN ( CR38- 935 ABIMAT CARUBAN )>> abimatcaruban@gmail.com : Pass> Abi159753
+===================================================================
+
+>>>  PASS N KEY RELOAD <<<<<<<<<<
+
+ pin key bca 592969 dan 232323
+ 
+ pin key bca pk heri 116671
+
+..>>  pass key h2h pak hery
+
+ bca dan bni = 116671
+
+  Mandiri = 113374
+
+..>>  pass key h2h pak widodo
+
+  Mandiri = 110033
+
+reg meme :  1771751861 
+
+mirzahnu0609 pas : 116671
+
+qbsheraxseaxsest890
+
+.........>>>>>>>>>>> MBANKING<<<<<<<<<<<<........
+
+ BCA I- BANKING :  marsudi0122   pass 789987
+
+    :  user : sulisnin0610 / pass : 441364
+ 
+       :  HERRYANA0006   pass : 592969
+    
+    :  herryana0002  pass : 592969
+
+
+ BRI I- BANKING BARU :  Dwisuw0709 pass 116671adm
+
+    :  sulisn1006  Pass : admin0701 < mati > 
+
+    :  User ID : henikn2809  Pass : Admin0701
+
+ MANDIRI I- BANKING : marsudi003 pass  789987
+
+ MANDIRI I- BANKING Sulis : sulisn1006 /  pass : 116671
+
+  Mandiri Online RIRIS : 
+      id : restufahmia
+      pass : Barokah170845
+ 
+
+ BANK BNI  : Pasword : A116671h, User id : Axsest0889
+
+username : ninaekak1117   .   1771754461 / NINA EKA KUSUMA WARDANI     : password : 116671
+ 
+
+REG BTPN wow A.N Mat Kan'an   : 087858436222  pin : 225588
+
+reg BTPN riris: 90011665410
+
+*247#
+===================================================================
+
+BNI
+Pasword : A116671h
+User id : Axsest0889
+
+=========================================
+
+NO token PLN METER XL  : 32112158442
+
+NO token PLN METER PK HERI : 32112159085
+
+=========================================
+Terminal MOBO 10
+Nomor MOBO TRansaksi :  085785029701
+ID Outlet : 1503105
+OUTLET NAME : BAROKAH CELL
+===========================
+Terminal MOBO 2
+Nomor MOBO TRansaksi :  081554216189
+ID Outlet : 1523768
+OUTLET NAME : BAROKAH RELOAD 1
+===========================
+Terminal MOBO 3
+Nomor MOBO TRansaksi :  081515380778
+ID Outlet : 1523533
+OUTLET NAME : BAROKAH RELOAD 7
+===========================
+Terminal MOBO 5
+Nomor MOBO TRansaksi :  081554216203
+ID Outlet : 1523520
+OUTLET NAME : BAROKAH RELOAD 9
+===========================
+Terminal MOBO 9
+Nomor MOBO TRansaksi :  081554216229
+ID Outlet : 1523554
+OUTLET NAME : BAROKAH RELOAD 4
+=========================================
+
+No TELP PENTING 
+
+CALL CENTER PT KAI  : 021 121
+https://tiket.kereta- api.co.id/
+
+SERVIS GENSET  : 085101799158
+   : 0812- 3178- 0241 
+
+JNE MAIDIUN   : 0351483648 
+
+ALFILL CRB   : 0351 -  3890230
+
+KANTOR RIRIS   ;  0351 493067
+
+NO TELP KANTOR TAMRIN  : 0351 455920
+
+no speedy madiun regency: 0351- 496302 / 152- 601 - 201 - 336
+
+PLN RUMAH 2200       : 22112015072 
+ 
+OKEVISION   : 401000383294 
+
+pdam rumah  : 0224060020   harus d bayarkan sebelum tggal 15 tyap bulannya
+
+PDAM RIRIS  Baru  : 0107010140
+
+PDAM RIRIS lama g d pakai :  0109010063
+
+PDAM CPM   : 0109010092
+
+PLN SERVER 2200       : 32003728964 .32003728964
+
+PLN MESJID REGENCY  : 46002438466
+
+kantor tamrin   : 0351 455920 
+
+SERVIS AC   : 081258296586 
+
+GAS ELPIJI (PAK JOKO) : 085784090904
+
+cs speedy call  :  ( 0351 ) 4773355  / 0351 2812795
+   :  ( 0351 ) 465558
+
+CARA TRX UMB TOSS XL  : *171*7*889 pass 2323
+
+nomor chip dompul kode d : 087702323200
+
+>>>>>>>>>ngawi<<<<<<<<<<<<<<<<<
+
+NO AXIS NGAWI : 083845204574
+
+nomor modem ngawi :087702292030
+
+===========================================================
+
+NO TELP PDAM MADIUN JL SULAWESI   0351-  458923 / 464205
+
+CHIP AKTIFASI THREE    : 089619008724  . PIN : 5758 . KODE OUTLET : 00159211
+
+xl tunai pak heri   :id :  carcelmad1   pass : caruban
+
+XL TUNAI 081803319111   : PIN 159753
+
+cip CERIA     : 082895400096, PASSWORD : 123456
+
+cip THREE (TIDAK D PAKAI)  : 08979719781   PASSWORD : 4Br_crb4     pin : 159753 = pot 1.75 d ahmad dahlan = BRI 064201000323567 a/n Ahmad Dahlan. < Ganti Pin : *898*7*pinbaru*pinlama# >
+
+CHIP TRI  ( OFF )    : 0895608869056 . PIN : 159753 . PASSWORD : 2Mr_CM02
+
+CHIP TRI  ( OFF )    : 895411435887 . PIN : 159753 . PASSWORD : 2Mr_CM02  198573 4Dg$a)BU
+
+CHIP TRI BARU  ( OFF )  :  089680860121  . PIN :  225588  . PASSWORD : 2Mr_CM02
+
+CHIP TRI  ( ERATEL )        : 0895370139030 . PIN : 1991 . PASSWORD : 2Mr_CM02 
+
+============TRI DATA BARU===========
+
+MSISDN: 089699295665
+Pin: 5758
+EDJ : 00073344
+====================================
+
+Anda adalah pelanggan e- Top up sistem. PIN anda adalah 685432, password anda adalah Fw{B^{(9. Terima Kasih!
+
+
+cip AXIS(TIDAK D PAKAI)   : 083845872836 mdn159753  pin : 159753/The new password is N2E2W1HJ
+
+cip SMARTFREEN LAMA (SUDAH TIDAK TERPAKAI) : 08813526167, username: tt3barokahre001,pass: 778163              8813526167
+
+CIP SMARTFREEN BARU (TERPAKAI)       : 08885819121 USERNAME :  M_8883864104 pas : wR456852x  PIN  TRX : 963159
+
+        untuk format ganti pin  GANTI.PINLAMA.PINBARU    KIRIM KE 877   
+
+
+pin mobo = *171*501*pin lama*pin baru*pin baru#
+
+chip 3 rita    : 
+Cek Saldo Tri Sakti Lewat SMS, berikut adalah caranya :
+KETIK
+SALDO.pin
+Misal : SALDO.1234
+KIRIM KE   089611223344
+
+USERNAME MOBO :
+Short Code: 1503105, Organization Name: barokah cell, Classification: Silver
+Organization Shortcode : 1503105
+Username anda : SEP1635818
+Password baru anda 3~W38265
+
+28/11/2019 13:52:01
+Password anda telah direset oleh INDOSAT. Password baru anda 3~W38265 TID :  11792000010384727210
+
+===========================DATA SINAR==========
+
+TRI : 089684293099 : PIN Anda 159753  .   paswaord ; 2Br_crb2
+
+chip smart pak heri 
+
+08818486747 jaya tronik :
+Username : tt3ejf01815
+ID Outlet : EJF01815 PIN : 159753
+
+08816238348 wefast2
+ : Username : s_8815580458
+ ID Outlet : EJF01320 PIN : 
+
+Smart Reload System (SRIS): 
+ID Outlet / Username : EJD16715
+Pasword : BAROKAH123
+
+===========================DATA SINAR==========  
+
+CIP AXIS BARU 14 DES 2013 (TERPAKAI) RETAIL : 083845981233 pin: 112233 password : Cmp1cmp1
+
+CIP AXIS h2h  eflas reload 21 des 2013: 083845981433 pin : 112233 password : Sjreload1
+
+  >>>>>>>>> DATA SERVER <<<<<<<<<<<<<<<<<<
+
+
+ID SERVER lama     : caruban_reload_10a4i1v9o5t3m7v760a3u1u0ayidqma
+
+ID SERVER BARU     : caruban_reload_10j122g3k4m6y626a3j3i9itmo246la
+
+
+ID SERVER FM SATELIT BARU < LAMA>  : caruban_reload_mini_018186my5ms6aqeg8is2qa
+
+ID SERVER FM SATELIT BARU < TERPAKAI>  : caruban_reload_mini_018186mypms6aqeg8ms2qa
+      
+===================================================================  
+KODE MESIN FM               :  FM- 0145
+
+KODE MESIN                   :  03J162D8D6CA96JQFG6UY4RA
+
+  >>>>>>>>>> server pak heri <<<<<<<<<<<<<<<<<<<<<<<
+
+
+server utama = carubanbaru_10a363y1q4u5m5l062a9a1ad4qig0ma
+
+server satelit = carubanbaru_10a363y1q4u5m5l0g2a9a1ad4qig0ma
+
+pin ax889
+===================================================================
+Format dial, Cara cek no sendiri :
+
+✅ XL = * 123*817#
+✅ INDOSAT = * 123*30#
+✅ TELKOMSEL = *808#
+✅ AXIS = * 123*817#
+✅ TREE = *111*1#
+✅ Kartu Smart = *995# Call / ok
+
+===================================================================
+cara cek plsa :
+
+INDOSAT  : *123#
+TELKOMSEL : *888#
+XL  : *123#
+AXIS  : *123#
+SMRTFREEN : *999# Call / ok
+THREE  : ```*111*1#```
+===================================================================
+nomor custumer servis provider : 
+
+INDOSAT  : 185
+TELKOMSEL : 188
+XL  : 817
+AXIS  : 817
+SMRTFREEN : 888
+THREE  : 132
+
+*) telpn nya dari sesama nomor.. 
+misal mau telp cs indosat maaka telpon nya dari kartu indosat dst.
+
+==================================================================
+sell in indosat
+
+*171# ok
+Pilih 3 ok
+Pilih3 ok 
+Msukn pin ok
+Pilih 1
+
+telkomsel : *181*1*1#
+2244755060
+==================================================================
+cara cek insentif sultan
+
+*171#ok
+pilih 6
+pilih 1
+pilih 1
+pilih 3
+terus pin
+
+==================================================================
+Saldo:Rp |.00, TID: TID: data 
+Saldo: Rp |.00, TID: reguler
+
+cek saldo utama : *171*6*1*1*<PIN>#
+cek saldo komisi : 
+*171#
+6
+1
+3
+<Pin>
+
+
+
+dial indosat data saldo utama
+
+reguler utama 
+*171*1*1*<NOMINAL>*<TUJUAN>*<PIN>#
+
+
+*171*2*2*4*<Tujuan>*<pin>#  (id1 )
+*171*2*2*5*<Tujuan>*<pin>#  (id2 )
+*171*2*2*6*<Tujuan>*<pin>#  (id3 )
+*171*2*2*7*<Tujuan>*<pin>#  (id7 )
+
+dial indosat data saldo Komisi
+
+reguler komisi
+*171*7*1*<NOMINAL>*<TUJUAN>*<PIN>#
+
+*171*7*2*2*1*<Tujuan>*<pin>#  (id1 )
+*171*7*2*2*2*<Tujuan>*<pin>#  (id2 )
+*171*7*2*2*3*<Tujuan>*<pin>#  (id3 )
+*171*7*2*2*4*<Tujuan>*<pin>#  (id7 )
+*171*7*2*2*5*<Tujuan>*<pin>#  (id10)
+*171*7*2*2*7*<Tujuan>*<pin>#  (idj)
+
+*171*7*2*3*23*<tujuan>*<pin># (if4)
+*171*7*2*3*24*<tujuan>*<pin># (if8)
+*171*7*2*3*25*<tujuan>*<pin># (if14)
+*171*7*2*3*26*<tujuan>*<pin># (if20)
+*171*7*2*3*27*<tujuan>*<pin># (if30)
+
+*171*7*2*3*2*<tujuan>*<pin>#  (if2)
+*171*7*2*3*4*<tujuan>*<pin>#  (if3)
+*171*7*2*3*6*<tujuan>*<pin>#  (if10)
+*171*7*2*3*8*<tujuan>*<pin>#  (if21)
+*171*7*2*3*10*<tujuan>*<pin># (if32)
+
+
+*171*7*205*<Tujuan>*<pin>#  (mid1)
+
+*171*7*201*<Tujuan>*<pin>#  (idm1a1)
+*171*7*202*<tujuan>*<pin>#  (idm1a3)
+*171*7*203*<tujuan>*<pin>#  (idm1)
+*171*7*204*<tujuan>*<pin>#  (idm1a15)
+==================================================================
+
+web smartfreen : https://eload.smartfren.com/AdminApplication/login.htm;jsessionid=9E01CBA1EE5E2125987FE67BFB758DAD
+
+web xl idek : https://www.idex- portal.xl.co.id/aprm- portal/changePassword.do
+
+https://eload.smartfren.com/AdminApplication/login.htm;jsessionid=81918BAB9E3BA374A4EAE77B395A9258.mfin2
+
+http://202.159.6.165:10000/el/awalan.jsp
+ 
+https://ib.bri.co.id/ib- bri/Login.html
+
+https://ibank.klikbca.com/
+
+https://isohubtoss.topupsolution.com/IsoHubToss/Login.aspx
+
+https://v- tri.tri.co.id:8434/insms/dealer/en/loginin.do
+
+https://www.idex- portal.xl.co.id/aprm- portal/maindispatcher.do;jsessionid=281B732B3E2D1846EAB8F618EE9D9A1F- loginEvent=true
+
+http://mkios.telkomsel.com/index.php- do=default
+
+https://v- tri.tri.co.id:8434/insms/dealer/en/loginin.do
+
+https://epulsa.axisworld.co.id/insms/dealer/en/login/login.jsp- langChange=y
+
+https://isohubtoss.topupsolution.com/IsoHubToss/Login.aspx- ReturnUrl=%2fIsoHubToss%2fMember%2fReport%2fMemberTransactionsGridForm.aspx
+
+ ===================================================================
+
+UNTUK PENAMBAHAN id server/KONGKOW Messenger  /IP Transaksi /JABBER:        
+syarat nya kirimkan data anda yg sebelumnya terdaftar di eflash        
+        
+Nama Server  :  Caruban Reload   
+Id server    :        caruban_reload_10j122g3k4m6y626a3j3i9itmo246la
+Nama Owner  :   Marsudi
+NIK    :        3519121106760001
+Alamat    :   perumhan madiun regency no a20- 21 rt 34 kec taman kota madiun
+Nomor HP  :  081914888889
+Alamat E- mail  :   mdn.marsudi@gmail.com
+ID server/KONGKOW Messenger/IP yg lama//JABBER:   caruban_reload_10j122g3k4m6y626a3j3i9itmo246la
+ID server/KONGKOW Messenger/IP yg baru/JABBER:  trxsiip@gmail.com      
+        
+3 reply/balasan trx terakhir dari eflash:        
+ 
+REF:0FMS210ZEBC78D98740E8DB2C0BA7C72/515010785527/DIYAH- CITRAWATI/R1/450VA/DES17/288000- 303400/Rp79585/Adm2500 SUKSES CallCenter:123 Saldo Rp.6471080
+REF:0FMS210ZE5D3164D7D5E705F7676C96F/515010534287/DRS- DANOE- SUPOMO/R1M/900VA/DES17/2155100- 2164800/Rp149758/Adm2500 SUKSES CallCenter:123 Saldo Rp.6549165
+REF:0FMS210Z81EB2533A19821B8CB3281E2/515070447861/SUMONO/R1/450VA/DES17/1305400- 1321200/Rp81763/Adm2500 SUKSES CallCenter:123 Saldo Rp.6697423
+REF:0FMS210Z2C1CC155FD73D465253C9EF5/515070527620/LULUK- LUNARTI/B1/900VA/DES17/1048400- 1059300/Rp82143/Adm2500 SUKSES CallCenter:123 Saldo Rp.6777686
+REF:0FMS210ZB9FDEAB81FB55EB8C24EBC76/515010454637/SUTRISNO/R1/450VA/DES17/627600- 639000/Rp57805/Adm2500 SUKSES CallCenter:123 Saldo Rp.6858329
+REF:0FMS210ZD48DEB157D0548190986E9D6/515010449879/SAMIRAN/R1/450VA/DES17/2340300- 2368200/Rp147648/Adm2500 SUKSES CallCenter:123 Saldo Rp.6914634
+REF:0FMS210ZF1FB06C22A01DC3B70F2E9DE/515010462855/MISIYEM- PARMI/R1/450VA/DES17/2723000- 2731000/Rp39292/Adm2500 SUKSES CallCenter:123 Saldo Rp.7060782
+REF:0FMS210Z25E0ABD9BB073BFC80ECD006/515010000813/HARIYANTO/R1/450VA/DES17/1027500- 1033800/Rp30036/Adm2500 SUKSES CallCenter:123 Saldo Rp.7098574
+REF:0FMS210ZC9317B406E5F0EFEA7F5FB7C/515070535807/I- KETUT- SULANDA/R1M/900VA/DES17/760000- 773100/Rp200323/Adm2500 SUKSES CallCenter:123 Saldo Rp.7127110
+
+===================================================================
+
+CARA TRANSAKSI M- KIOS
+1. Ganti PIN *771*Pin Baru*Pin Lama# (Pin harus Sama dengan Pin Saldo)
+2. Cara Transaksi *777*No Tujuan*Nominal*PIN#
+3. Cek Stok *776*PIN#
+===================================================================
+*Kode cek harga Pulsa Reguler:*
+
+XL = XR
+AXIS = AX
+INDOSAT = i
+Telkomsel = S
+Telkomsel Promo = SP
+Telkomsel BY u = BYU
+TREE = T
+SMARFREN = Y
+PLN = PLN
+
+- Cek harga Per Nominal
+Ketik : H.kode produk *(Tanpa Pin ya bos)*
+Contoh : *h.XR5*
+
+- Cek harga Semua Produk
+Ketik : *HRGALL.kode produk*
+Contoh : *HRGALL.s*
+
+kirim k center trx..
+
+======================================================
+
+DATA REGISTRASI H2H BAROKAH RELOAD MADIUN (vhan sama mu tronik)
+
+Nama Server : Barokah Reload Madiun 
+Nama Owner  : HERRYANA A AXSEST
+ALAMAT      : perumhan madiun regency no a20- 21 rt 34 kec taman kota madiun
+Kota		: kota madiun
+Nomor hp    : 087858436222
+Jabber      : trxsipp@fujabber.com 
+              speedwuzz79@jabb.im
+Pin Trx     : 4413
+Software    : IRS
+
+======================================================
+
+DATA REGISTRASI H2H BAROKAH RELOAD MADIUN (fake)
+
+Nama Server : shincahn Cell
+Nama Owner  : udin
+ALAMAT      : - Jl. Citandui No.6, Kalianyar, Begadung, Kec. Nganjuk, Kabupaten Nganjuk, Jawa Timur 64413
+              - Karangtimongo, Denanyar, Kec. Jombang, Kabupaten Jombang, Jawa Timur 61419
+
+Nomor hp    : 087858436222
+Jabber      : speedwuzz78@fujabber.com
+			  barokahcr3@jabbim.com
+Pin Trx     : 4413
+Software    : IRS
+
+======================================================
+
+
+Rekening PT MU TRONIK :
+
+🏧 BCA :   1195899888 / PT.MUTRONIK COMMUNICA JAYA
+
+Syarat & ketentuan :
+● Pengirim transfer harus menggunakan rekening Pt juga
+ ( Bukan rekening pribadi/perseorangan )
+● Harus ada NPWP Perusahaan yang sama dengan no rek PT
+
+
+misal konfirmasi deposit tulis lengkap ya naman + id server nya biar cs nya sana g salah injek.
+ 
+@cs_mutronik (+6282184660444)
+BAROKAH RELOAD MADIUN , ID = H2000082
+
+@cs_abiq3 (+62895389112555)
+ BAROKAH RELOAD MADIUN , ID = VC1066
+ 
+======================================================
+Center         = vhan_center1 & vhancell2 & vhancell99 &  abiq.cell_bdg & vhan.cell_bdg
+
+CENTER  JABBER = backup_vhan1@jabbim.com
+
+Format TRX      = Kode.Tujuan.Pin
+
+Format Deposit  = Tiket.Jumlah.Pin
+
+Cek Saldo       = S.pin
+
+Cek Harga       = HRGALL.Kode
+
+Ganti Pin       = PIN.PINLAMA.PINBARU
+============================
+
+Terminal MOBO 2
+Nomor MOBO TRansaksi :  081554216189
+ID Outlet : 1523768
+OUTLET NAME : BAROKAH RELOAD 1
+
+Komplin ke mobo 202
+Mohon dilengkapi data-data berikut untuk di bantu pengecekan (harap ditulis/ketik) :
+
+Nama Outlet : barokah cell
+ID Outlet : 1503105
+Nomor MOBO : 085785029701
+Lokasi Outlet : kota madiun jatim
+MSISDN (No.berkendala)  : 085808470525 
+Kejadian (Tgl/ Jam) :  2022/06/16  17:33:06
+TID/SN Transaksi  : 02723300019098244413 
+Paket/Pulsa : Aktivasi Paket  Freedom U 5.5GB/30 Hari
+Desk Kendala : sukses ketrangan pembli kuota belum masuk
+
+============================
+
+>>>>> LOGIN PPOB ANR
+
+>>>>> USER = 77956BarokahReload
+>>>>> pass = 159753
+>>>>> ppob bris eflas : RBN6101  pas  456852
+PPOB BRIS EFLAS       : RBN6101  pass ; 456852
+============================
+
+*Mau transaksi via hangout/gtalk Messenger* :
+
+Berikut langkah- langkah penggunaan aplikasi hangout/gtalkMessenger
+
+-  Download dan install aplikasi hangout/gtalk Messenger pada android anda melalui Play Store
+
+ https://play.google.com/store/apps/details?id=com.google.android.talk&hl=en
+
+-  Setelah Terinstal PILIH Next
+-  Maka hangout/gtalk Messenger anda akan automatis login
+-  Langkah selanjut nya hub cs barokah/sales dgn menyertakan *Nomer yg terdaftar dan alamat email,* tuk dilakukan pendaftaran di Server barokah.
+
+================================================
+*Yang Mau Transaksi Via Telegram Di Komputer/PC/NOtebook*
+silahkn download aplikasi nya di link :
+
+https://telegram.org/dl/desktop/win
+
+-  Setelah itu instal di Komputer/PC/NOtebook nya
+-  Lakukan login seprti d hp
+-  Pastikan komter nya ada koneksi internet
+-   Apabila sudah login berhasil
+-   Cari center barokah reload : @barokahcenter_bot
+dan klik *start*
+- Akan ada balasan Seperti CONTOH berikut :
+
+telegram anda blm terdaftar, registrasi dengan cara ketik:
+REGID.2580xxx.PIN
+kirim ke sms center dari nomor hp yang terdaftar
+
+- Yang anda Lakukan selanjutnya adalah mengikuti panduan tersebut, Kirim *REGID.2580xxx.PIN* ke sms center, *Dari nomer yang sudah terdaftar BIsa VIa sms* bukan degan telegram anda, karena belum terdaftar
+- jika Prosedur diatas anda ikuti, anda berhasil *memparalel* / *Mendaftarkan* ID telegram Anda
+
+====================================================
+Login Mbanking:
+
+*Restu Fahmia*
+BCA 1771862433 ID : RESTUFAH1608 ; pass : 170845
+BNI 0674928011 ID : Barokah0011 ; pass : BR170845
+BRI 0045 0107 5893 509 ID : RESTUFAH1608 ; pass : Re170845
+MANDIRI 171- 00- 0372600- 0 ID : Barokah01 ; pass : 170845
+
+*AKUN MANDIRI ONLINE BARU*
+id : restufahmia
+pass : Barokah170845
+
+Accound ID BRI : 004501075893509
+Account ID mandiri : 20180131085384
+
+Akun Jenius BTPN RESTU : 90011665410
+
+====================================================
+update Login Mbanking:
+*HERRYANA A AXSEST*
+
+BRI 634501016941531
+USER ID : Madiun592969
+Password : Office159
+
+BCA 3280199299
+USER ID : HERRYANA0006
+Password : 592969
+
+Mandiri : 1710029888883
+Company ID : FG02872
+User : AXSEST1
+Password : Admin070
+Link MANDIRI BISNIS: https://mib.bankmandiri.co.id/sme/common/login.do?action=logoutSME
+
+====================================================
+info : *NOMOR REKENING Barokah Reload BERUBAH*
+*REKENING LAMA TIDAK DI PAKAI:*
+
+- ( BRI ) 350801032248534  *(REK DI TUTUP)*
+Atas nama :  Henik Nuryanti
+
+- ( BCA ) 3280285381  *(REK DI TUTUP)*
+Atas nama :  Sulisningtyas
+
+- ( Mandiri) 1710000199342 *(REK DI TUTUP)*
+Atas nama :  Sulisningtyas
+
+- BCA = 1771862433 *(REK DI TUTUP)*
+- BRI = 004501075893509 *(REK DI TUTUP)*
+- MANDIRI = 1710003726000 *(REK DI TUTUP)*
+- BNI  = 0674928011 *(REK DI TUTUP)*
+semua a.n Restu Fahmia
+
+
+- ( Bank Jatim ) 0412123107
+Atas nama :  Sulisningtyas
+
+==========
+
+*REKENING BARU YANG DI PAKAI:*
+-  BRI : 634-501-016-941-531
+-  BCA : 3280-199-299
+-  MANDIRI : 171-002-988-8883 
+SEMUA ATAS NAMA : Herryana A Axsest
+
+_Silahkn di Simpan dan di sampaikan ke downline nya_ 🙏🙏
+====================================================
+
+Monggo yang mau *Nambah Deposit via Transfer Bank*
+
+*Caranya:*
+-  Ketik : *Tiket.JumlahPenambahan.Pin*
+-  Contoh : *Tiket.500000.1234*
+-  Kirim k *center Trx*
+
+*Ikuti Petunjuknya,*
+-  *Silahkan transfer Ke Salah Satu Rekening Berikut* :
+-  BRI : 634-501-016-941-531
+-  BCA : 328-019-9299
+-  MANDIRI : 171-002-988-8883 
+
+SEMUA ATAS NAMA : Herryana A Axsest
+
+-  Setelah Transafer Otomatis Saldo akan bertambah jika di sistem kami Membaca Mutasi dari Transferan anda. *JUMLAH yang di transfer harus sama dengan balasan tiket*
+
+*BUKA SETIAP HARI MULAI JAM 06.00 SAMPAI 21:00*
+
+_Setelah transfer Harap Sampaikan ke CS di Nomer ini(087858436222)_
+===============================
+info : *NOMOR REKENING TIKET Barokah Reload BERUBAH*
+===============================
+
+*Barokah Ramadhan*
+
+Tingkatkan Trus Deposit nya boss agar Lebih Banyak Dapat Kesempatan Mendapatkan Hadiah
+
+Syarat Dan Ktentuan Mendapatkan Kupon Undian
+-  Terdaftar Sebagai Mitra Barokah
+-   Deposit Tunai 300 Ribu Langsung Dapat 3 Kupon
+-   Cash Bon ( Deposit Mundur) 500 Ribu Mendapat 2 Kupon 
+-  Program Ini Berlaku Mulai 1 April 2018 Sampai 5 Juni 2018
+-  Pengundian Akan di Laksanakan Tanggal 6 Juni
+-  Satu Minggu Sebelum Pengundian Akan Di Info Tempat Dan lokasi nya..
+-  *Info Lebih Jelas Mengenai Program Bisa Hub Sales / Kolektor Yang berkunjung*
+
+NB :
+-  _Program ini Tidak Berlaku Bagi Karyawan Dan CVS Anggota Keluarga Barokah Reload_
+===============================
+
+Terkait Program **Barokah Ramadhan**, banyak Pertanyaan Pertanyaan dari Agen, diantaranya :
+1.  Apakah Program Berlaku untuk **Donwlinenya Mitra Barokah** yang notabene tidak berhubungan langsung dengan Barokah - 
+2. Jika Pertanyaan di Poin 1, iya, Penambahan saldo dari upline apakah termasuk dalam Kupon berhadiah - 
+3. Jika tidak, dan Donwline tsb melakukan penambahan via tiket / transfer apakah di hitung ke dalam Program tersebut, Kupon nya bagaimana - 
+4. Perhitungan Jumlah Kupon yang Terkumpul ada format cek / bisa di tanyakan ke siapa - 
+
+untuk sementara 4 poin diatas, yang banyak ditanyakan.
+
+**JAWABANNYA** :
+1. Semua DL bs mendptkan kupon, dan kupon bs menghubungi upline maisng masing.
+
+2. Upline akan mendptkan jatah kupon. 
+
+3. Via tiket bs mendptkan kupon,  namun diambil sendiri ke kantor barokah, mdn, mgt, Caruban,Ngawi
+
+4 kupon ada dua, satu tuk mitra , dan satu tuk barokah, di kupon ada nomeratornya, artinya semakin byk kupon MK smkin byk kantoran mendptkan hadiah undian.
+======================================================
+Komplain trx BTPN : 
+08116500300
+081617500300
+
+btpnWOW: 082234477174
+================================== 
+team
+
+Info news
+Periode Sebelum lebaran dan stelah lebaran.
+
+*SYARAT DL BISA MINTA SALDO SAAT PERMINTAAN LEBARAN*
+
+Pelunasan Jumat :
+Permintaan saldo sd tgl 28 April harus lunas maksimal tgl 01 Mei
+
+Pelunasan Selasa :
+Permintaan saldo sd tgl 25 April harus lunas maksimal tgl 28 April jam 10.00
+
+Pelunasan Senin :
+Permintaan saldo sd tgl 23 April harus lunas maksimal tgl 25 April
+
+*Jika sampai tanggal tersebut belum lunas, silahkan sales mengajukan lock saldo ke admin DDS*
+
+*JADWAL PELUNASAN UNTUK PERMINTAAN LEBARAN*
+
+Pelunasan Jumat :
+Permintaan saldo tgl 29 April-12 Mei harus lunas maksimal 16 Mei
+
+Pelunasan Selasa :
+Permintaan saldo tgl 26 April-09 Mei harus lunas maksimal 12 Mei
+
+Pelunasan Senin :
+Permintaan saldo tgl 25 April-07 Mei harus lunas maksimal 9 Mei.
+
+
+JIKA ADA YG KURANG JELAS  SILAHKAN DITANYAKAN DI GROP INI YA.
+
+================================== 
+downline
+
+*INFO Deposit Masa LIBUR LEBARAN*
+
+SALDO Via Admin *TETAP BUKA SEPERTI BIASA*
+
+1. *Khusus tgl 2 Mei Hari Lebaran Saldo Buka(hanya Via sms saja)*
+2. *Tgl 8 Mei Saldo Libur (HARI MINGGU)* ❌❌
+3. *Tgl 9 Mei Kantor Barokah Buka & Masuk Normal*
+
+_Sekian Infonya dan silahkan dikondisikan, terima kasih_ 🙏🙏
+
+*NB: ```Kantor Barokah reload Baik di Ngawi,caruban dan madiun Libur Mulai 1 mei sampai 8 Mei 2022, Masuk Senin Tgl 9 Mei 2022.```
+
+*_Deposit TIket Via Transfer buka teruss_*
+
+==================================
+
+*Info*
+ *Prosedur setoran ke operator selama liburan lebaran*
+
+1. Sales/kolektor pertemuan dgn operator *didepan rumah.*
+
+2. Sales /kolektor telah *membungkus uangnya dgn rapi dan melakban dgn kuat. Dan mencoret coret diluarnya agar nantinya terlihat jika suatu saat lakban pernah dibuka. Lalu di foto dr 4 sisi sbg dokumen.*
+
+3. sales /kolektor *menulis* di bungkusan tsb : 
+
+*Nama anda:*
+*Tgl setor:*
+*Jam:*
+*Jumlah uang:* 
+
+*Via Transfer Bank bisa Japri admin(mohon di Maklumi Kalu Slow respon=ADMIN PREI)*
+
+4. *Operator menyerahkan ke saya (Pak Mar) uangnya.*
+
+5.*saya (Pak Mar) akan menyerahkan uang yg telah terbungkus tsb ke admin disaat masuk hari pertama.*
+
+6. Admin disaat akan *membuka uangnya hrs diketahui oleh sales/kol bersangkutan.* Agar sales/kol memeriksa dlu, dan memastikan kondisi bungkusan tsb tdk berubah. Dan jika sales /kol merasa ada yg berubah , mk saya perintahkan admin jgn membukanya.
+
+*Note* ;
+_Silahkan sales/kolektor untuk membeli lakban dan spidol permanent. Dan bisa di klaimkan ke admin disaat masuk kerja._
+
+==================================
+smsweb
+BarokahReloadmdn pass : 159753br
+
+=========================================
+Untuk Deposit
+
+Langkah Deposit melalu website/ aplikasi
+1. login dan masukan nomor terlebih dahulu di (market.tapp.fi/)
+(pastikan nomor sudah terdaftar menjadi agent Tapp Market)
+2. Klik Garis 3 kebawah yang berada pada sudut kanan atas.
+3. Pilih Menu deposit yang berada diatara menu lokasi atau undangan.
+4. Pilih bank tujuan dan masukan jumlah deposit yang akan ditransfer.
+5. Nominal akan berubah menjadi nominal unik contoh : 10.001
+   dan agent wajib transfer sesuai dengan nominal unik yang tertera pada tiket tersebut
+6. Klik (ya, saya sudah membayar)
+   dan saldo akan masuk kurang lebih 5 s/d 15 menit 
+7. Jika saldo belum masuk setelah 15 menit, bisa langsung menghubungi team deposit di @tapp_deposit
+   dan pastikan semua cara sudah sesuai dengan cara diatas. 
+8. Mengenai komplain transaksi bisa menghubungi team CS di @tapp_cs
+
+Customer Support Telegram
+
+CUSTOMER SERVICE TAPP Transaksi
+📱 @Tapp_CS
+☎  +6285771280011
+
+Customer service DEPOSIT TAPP
+📱 @tapp_deposit
+☎  +6285770733151
+
+Untuk Produk dan Harga terupdate
+https://t.me/infotappmarket
+
+Mitra sudah bisa mengecek transaksinya melalui : http://h2h.tapp.co.id/
+-  User yang digunakan adalah user Agent Tapp (no hp pake 62 bukan 0 / email)
+-  Fasilitas pencarian sudah bisa berdasarkan NO HP atau PLN ID
+-  Hanya Agent yang sudah H2H yang bisa masuk
+
+Tolong diumumkan yaks....
+======================
+Assalammualaikum
+
+Undangan Meeting Bulanan Pada:
+Hari : kamis,18 Desember 2019
+Waktu : 08;30
+Tempat : Joglo Ne Karto (madigondo)
+Peserta : Sales ,Kolektor,Admin,cs
+Agenda : 
+-  pemb performance bulanan
+-  pembahasan Tour
+-  dll
+
+Mohon hadir tepat waktu dan tdk diwakilkan.
+
+Cs Barokah Reload
++=================
+untuk IRMA
+
+url app console : https://app.irmastore.id/login
+Login : barokahreloadmdn@gmail.com
+pass : 159753br
+IDSERVER : BRMadiun
+
+apiurl: http://103.180.166.45:8080/apps/v9/
+apikey: 852064dfa86ed6930220a1cb1e1ade42
+
+panduan: https://drive.google.com/open?id=1C3egVJSXwU8VJuTcqtrLFeO_yrKOKp51
+
+irs center
+login     : mdn.marsudi@gmail.com
+Password  : 123456
+=========================================
+Selamat Malam Kakak,,
+*Alhamdulillah Lancar*
+
+_Mau Sedikit berbagi Tips kak,,_
+*Biar Center WA  Cepat di akses dan ga tenggelam karena chat lain.*
+-  Cari Center WA  nya di Daftar chat
+-  Klo udah ketemu, *pencet dan tahan sekitar 3 detik*
+-  Di Whatsapp, menu muncul di atas
+-  Kemudian *klik gambar Paku/Jarum* ??
+
+Sekarang Chat Buat Center Barokah Nonggol di atas Terus kak - - - - 
+
+*Transksi Lancar di kebut saja..*
+========================================
+
+*Mau Transaksi Via WhatsApp ?*
+Berikut Nomer center WhatsApp Barokah Reload : 
+
+- WA Center : 081946010007 >> Klik ini : https://wa.me/6281946010007
+
+- WA Center : 085785729992 >> Klik ini : https://wa.me/6285785729992
+
+- WA Center : 085784769993 >> Klik ini : https://wa.me/6285784769993
+
+_Bagi pengguna WhatsApp saat ini telah bisa *dipergunakan untuk Transaksi / Cek Harga / Cek Saldo.*_
+Sebelum melakukan TRX dgn WhatApp, *Pastikan Nomer WhatApp telah terdaftar di barokah sbb* :
+
+1. *Cek Nomer Terdaftar di Barokah,* format ketik : *LHP  kirim ke center*
+2. Jika nomer WhatsApp telah terdaftar , maka *bisa langsung dipergunakan untuk melakukan transaksi.*
+3. Jika Nomer WhatsApp belom terdaftar , maka *lakukan pararel ,dgn format : PAR.nomerbaru.Pin  Kirim ke center dari Nomer Hape yang sudah terdaftar*
+
+==========Web repot==========
+*Alamat Web Report Barokah Reload*  :
+
+http://103.180.166.45:8080
+
+Bisa dimanfaatkan Untuk : 
+* Rekap *DEPOSIT*
+* Cek Harga
+
+Sebelum akses web report, anda di wajibkan request username dan password untuk *LOGIN* ke web report, dengan cara ketik : *RESETWEB.PINanda* kirim ke sms/wa center, pakai nomer hape yang sudah terdaftar
+
+Nanti anda akan mendapatkan username dan Pasword untuk login. seperti 
+
+*contoh:*
+Alhamdulillah,Web Report  *Username: BDB1TR. Password: A22609*
+
+Berarti
+*Username: BDB1TR*
+*Password: A22609*
+====================
+*Mau rekap-Rekap Transaksi??*
+*Ini Format Nya:*
+
+- *Cek 5Transaksi Terakhir*
+Ketik : LAST5.PIN
+Contoh: *LAST5.1234*
+
+- *Rekap Transaksi*
+Ketik : LAP.Tanggalbulantahun.pin*
+Contoh: *LAP.281217.1234*
+
+- *Cek Status Transaksi*
+Ketik : STATUS.Nomor
+Contoh: *STATUS.085655623873*
+
+*Kirim Ke center YA,, Bisa Via SMS,WA*
+👇-----------👇
+*Cara Lihat History /rekap Transaksi Di Aplikasi*
+
+-  Tekan Menu *history di bawah* 
+-  Pilih *Transaksi* 
+-  Pilih *tanggal di pojok kanan atas yang mau di cek*
+-  Pilih *OK*
+-  Apabila ada transaksi akan Muncul
+
+*REKAP-REKAP VIA Whatsapp*
+
+- *Rekap transaksi hari ini:*
+REKAP.TRX
+
+- Rekap saldo hari ini :
+REKAP.SALDO
+
+*Rekap saldo mulai tanggal tertentu:*
+REKAP.SALDO.TANGGAL_AWAL
+Contoh : REKAP.SALDO.190622
+
+- *Rekap saldo mulai tanggal tertentu:*
+REKAP.TRX.TANGGAL_AWAL
+Contoh : REKAP.SALDO.190622
+
+NOTE : tgl 190622 Berarti 19 Juni 2022
+Jika Upline mau rekap downlinenya, tambahkan kodeagen / nomer downline
+
+Contoh : REKAP.SALDO.08124567890.190622 atau REKAP.TRX.08124567890.190622
+
+_Kirim Ke center Whatsapp YA,,_
+
+=============
+```Halo Mitra BArokah...```
+_Sudah malam, saatnya kami CS Barokah undur diri dulu ya_ ☺️
+
+*Sampai bertemu besok pukul 06.00 WIB*
+```Mohon maaf apabila ada kekurangan dari kami, Sekiranya mohon dimaafkan``` 🙏🏻🙏🏻
+
+```Semoga besok menjadi hari yang lebih baik lagi.```
+Bye . .bye 👋
+
+*Selamat beristirahat.* 😴😴
+
+=============
+*Cara Ambil Struk DI Aplikasi*
+
+-  Tekan *Menu history di bawah* 
+-  Pilih *Transaksi* dan *Klik yg mau d cetak*
+-  atau Tekan *Menu Akun d pojok kanan Bawah*
+-  Pilih *Cetak Ulang*
+-  *Masukkan NOmor Transaksi Sukses* (tidak harus token)
+-  *Isi Jasa Loket* (laba)
+-  Klik Cari
+-  Selesai, Struk Bisa d Screensot Atau d cetak dengan printer bloutooth
+
+*Cara konekkan Bluethot untuk Struk DI Aplikasi*
+
+- Nyalakan Bluethot HP + Printer
+- BUka Aplikasi irma
+- Tekan *Menu Akun d pojok kanan Bawah*
+- Pilih *Struk&printer* 
+- Opsional boleh di isi boleh tidak nama toko & alamat
+- tekan refrees dan pilih printer
+- Klik simpan d menu bawah
+- Aplikasi siap buat mencetak struk
+- 
+=========
+
+*Cara Deposit Via Aplikasi*
+
+-  Tekan di menu *saldo*
+-  Pilih *Topup*
+-  Masukkan nominal yang mau di transfer
+-  Pilih *Lanjut*
+-  Pilih *Bank Transfer*
+  BCA BRI MANDIRI
+-  Akan Ada Notifikasi *Silahkan transfer sesui balasan yg tertera*
+
+=========
+
+*Cara Deposit Via ALFA di Aplikasi*
+
+-  Tekan di menu *saldo*
+-  Pilih *Topup*
+-  Masukkan nominal yang mau di transfer
+-  Pilih *Lanjut*
+-  Pilih *ALFA/ALFAMIDI*
+-  Akan Ada Notifikasi *Silahkan TUNJUKKAN KE KASIR ALFA sesui balasan yg tertera*
+- MIsal beli saldo 100.000 masuk 95.000 yg 5.000 biaya admin
+
+=========
+
+*Cara Melihat Daftar Harga & Produk DI Aplikasi*
+
+-  Tekan *Menu Akun d pojok kanan Bawah* 
+-  Pilih *Daftar Harga*
+-  Harga & Produk Akan Muncul Dan Slalu Update
+
+=========
+
+*Cara Lihat History /rekap Transaksi Di Aplikasi*
+
+-  Tekan *Menu history di bawah* 
+-  Pilih *Transaksi* 
+-  Pilih *tanggal di pojok kanan atas yang mau di cek*
+-  Pilih *OK*
+-  Apabila ada transaksi akan Muncul
+
+============
+
+*CARA GANTI PIN VIA APLIKASI Irma*
+
+- Buka App irma
+- Pilih menu *akun(pojok bawah kanan)*
+- geser ke bawah *GANTI Pin*
+- Masukkan *Pin Lama*
+- Masukkan *Pin Baru*
+- Masukkan *Pin Baru Lagi*
+- *klik ganti pin* 
+
+============
+
+*Cara Isi Paket internet & Telp Telkomsel Via Aplikasi*
+
+-  Buka Aplikasi
+-  Pilih Menu *TELKOMSEL DATA / TELKOMSEL TELP*
+-  Klik di Bagian *PILIH LAYANAN*
+-  Pilih Paket Yang Mau di Beli
+-  Di Kolom Isikan *NOmor HP Yang Mau di Isi*
+-  Dan Pilih *Cek Tagihan Buat cek Harga*
+-  Pilih *BAYAR* Untuk Beli
+
+============
+
+*Cara Isi Paket internet & Pulsa Via Aplikasi*
+
+-  Buka Aplikasi
+-  Pilih Menu *Pulsa & Data*
+-  *Masukkan Nomor Yg Mau di isi*
+-  Pilih Nominal Pulsa yg ingin di Beli
+-  *Masukkan PIN Anda*
+
+========== v2
+
+*Cara Transfer saldo ke Downline Via Aplikasi*
+
+-  Tekan *Menu Akun d pojok kanan Bawah*  
+-  Pilih *Agen*
+-  Pilih tanda titik 3 di sisi *agen yang mau di isi saldo* 
+-  Masukkan *jumlah saldo*
+-  Masukkan Pin
+
+==========
+
+*Cara Lihat saldo dan edit Markup Downline Via Aplikasi*
+
+-  Tekan *MENU AKUN di Pojok KANAN BAWAH* 
+-  Pilih *DAFTAR Agen*
+-  AKAN MUNCUL NAMA2 AGEN ANDA BESERTA SALDO DAN MARKUPNYA
+-  Pilih *agen yang mau di Rubah Markup* (misal mau rubah)
+-  tekan *tanda titik 3 di sisi kiri nama DL*
+-  Pilih *Edit*
+-  Masukkan *jumlah markup*
+-  Pilih *SIMPAN*
+-  selesai
+
+==========
+
+*Cara Daftar Downline Via Aplikasi*
+
+-  Tekan *Menu Akun d pojok kanan Bawah* 
+-  Pilih *Daftar Agen*
+-  Pilih *Tanda Plus + di Pojok Kanan Bawah* 
+-  isi Kolom Data Downline sampai Selesai
+  *isi nomor hp di awali 08xx dan jgan ada tanda baca lain nya*
+-  Pilih *Daftarkan*
+
+==========
+
+*Cara Isi saldo Gojek,dana,ovo Via Aplikasi*
+
+-  Pilih menu *saldo E- money*
+-  Pilih *Saldo mana yg mau di isi misal gojek*
+-  Pilih *masukkan nomor tujuan* 
+-  Pilih *Nominal yg mau di Beli* 
+-  Masukkan Pin Anda
+==========
+
+*Cara Beli Voucer data tri,axis,smart & indosat Via Aplikasi*
+
+-  Pilih menu *Voucer*
+-  Pilih *Voucer yg mau di isi misal axis*
+-  Pilih *masukkan nomor tujuan* 
+-  Pilih *Nominal yg mau di Beli* 
+-  Masukkan Pin Anda
+-  Tunggu Laporan *Sukses Dan Kasihkan Nomor SN ke Pembeli*
+    agar d masukkan ke hp nya.
+-  Selesai
+
+==========
+*Cara Beli Gem,DIAMOND (MobilLegen,freefire & POINT BLANK ZEPETTO) Via Aplikasi*
+
+-  Pilih menu *Game*
+-  Pilih *Game yg mau di isi misal MobilLegen*
+-  Pilih *masukkan id Game BUKAN nomor HP*
+-  Pilih *Nominal yg mau di Beli* 
+-  Masukkan Pin Anda
+-  Selesai
+
+==========
+
+*Cara Bayar Produk TELKOM speedy Via Aplikasi*
+
+-  Pilih menu *telkom*
+-  Masukkan *nomor Telp Spedy / id telkom*
+-  Pilih *Cek tagihan*
+-  Tunggu Nanti Akan ada balsan tagihan
+-  Pilih *Bayar Tagihan*
+-  Masukkan Pin Anda
+-  Selesai
+
+==========
+https://cuanweb.tri.co.id/index.php?id=BH
+
+Isi Pesan: YTH Retailer, Selamat! anda telah terdaftar kedalam aplikasi Web CUAN. password anda adalah: tDrfYpWG
+
+MSISDN : 089699295665
+Password : 159753Br%
+==========
+
+ID & PASSWORD BANK 
+
+Sinar
+* BCA P.HERI 
+  Email : herryana0002
+  Pass  : 592969
+* Mandiri
+ user : axsest890
+ pass : 116671
+ 
+======================
+
+USERNAME PASSWORD MU
+ Hai BA094874, RESET ACCOUNT SUCCESS,  Username : 459F5E &  Password  : 58FCF7   
+
+ ======================
+mkios 1
+Berikut akun DIGIPOS anda. 
+Username: PUT4364828
+Password : A159753bn
+PIN NGRS : 123321
+PIN NGRS : 123321
+
+=======
+mkios 2
+Berikut akun DIGIPOS anda. 
+Username: PUT4074833 
+Password: A159753bn
+PIN NGRS : 123321
+PIN Link : 123321
+
+=======
+Mkios bakar
+User Name DIGIPOS : ERN2991919
+Passrword : 753951hT
+NGRS : 123321
+Link Aja : 123321
+
+No Outlet : 81357307057
+ID Outlet : 3200012221
+
+Virtual akun BCA LinkAja : 191109901662302
+Virtual akun BNI LinkAja : 9889119901662302
+Virtual akun MANDIRI LinkAja : 899119901662302
+
+SALAKHIR:|, pulsa
+
+SALAKHIR:|} paket
+
+#114.141.55.67 digipos-api.digicore.id
+
+======================
+
+082143760703 Sisa saldo :60000
+Profile : Maju hardware - DINI
+User Name DIGIPOS : DIN6070357
+Password: A159753bn
+
+Virtual akun BCA LinkAja : 19110 - 990 168 0867
+Virtual akun Mandiri LinkAja : 89911 - 990 168 0867
+Virtual akun BRI LinkAja : 91199 - 990 168 0867
+Virtual akun BNI LinkAja : 988911 - 990 168 0867
+
+======================
+
+~081335829111 Sisa saldo :1957000~ *CHIP TIDAK ADA(DI BAWA SALES KISEL)*
+Profile : Dewata - Susi WURYANI
+User Name DIGIPOS :  sus3459111
+Password: A159753bn
+
+Virtual akun BCA LinkAja : 19110 - 990 164 6069
+Virtual akun Mandiri LinkAja : 89911 - 990 164 6069
+Virtual akun BRI LinkAja : 91199 - 990 164 6069
+Virtual akun BNI LinkAja : 988911 - 990 164 6069
+
+======================
+
+081332813474
+Profile : Berkah Cell Matahari - Dedy
+User Name DIGIPOS :  ded3543474
+Password: A159753bn
+
+Virtual akun BCA LinkAja : 19110 - 990 169 5847
+Virtual akun Mandiri LinkAja : 89911 - 990 169 5847
+Virtual akun BRI LinkAja : 91199 - 990 169 5847
+Virtual akun BNI LinkAja : 988911 - 990 169 5847
+
+======================
+
+081234967120 Sisa saldo :7000
+Profile : Ratih - Ratih
+User Name DIGIPOS : rat6712088
+Password: A159753bn
+
+Virtual akun BCA LinkAja : 19110 - 990 166 1647
+Virtual akun Mandiri LinkAja : 89911 - 990 166 1647
+Virtual akun BRI LinkAja : 91199 - 990 166 1647
+Virtual akun BNI LinkAja : 988911 - 990 166 1647
+
+======================
+mkios 4
+081332813474
+Profile : Dedy
+User Name DIGIPOS : ded3543474
+Password: A159753bn
+
+Virtual akun BCA LinkAja : 191109901695847
+Virtual akun Mandiri LinkAja : 899119901695847
+Virtual akun BRI LinkAja : 911999901695847
+Virtual akun BNI LinkAja : 9889119901695847
+
+======================
+WEB SMS Login
+Username : barokahreloadmdn@gmail.com
+Password : 159753
+
+======================
+mkios 7
+Nomer : 081333212670
+UserName : HER7072670
+Password: A159753bn
+Pin : 123321
+
+======================
+mkios 6
+Nomer : 081333212673
+UserName : HER8732673
+Password: A159753bn
+Pin : 123321
+
+======================
+mkios 1
+Nomer : 081235270287
+UserName : AGU4930287
+Password: A159753bn
+Pin : 123321
+
+======================
+mkios 2
+Nomer : 081235270288
+UserName : AGU5660288
+Password: A159753bn
+Pin : 123321
+
+======================
+
+
+INFORMASI TRANSAKSI SHOPEEPAY
+
+Terkait problem dari sisi penyedia layanan untuk Transaksi ShopeePay akan dibatasi berdasarkan nomer bukan berdasarkan Denominasi, oleh karena itu untuk Transaksi Shopeepay dengan nomer yang sama baru dapat di isi kembali setelah jangka waktu 6 jam dari Transaksi sebelumnya.
+
+Pihak Penyedia layanan yaitu ShopeePay menganggap Fraud bilamana transaksi dilakukan secara berulang ulang sebelum jangka waktu 6 jam, hal ini akan berdampak kepada akun layanan ShopeePay customer. Mohon informasi ini dapat dipahami untuk mencegah hal hal yang tidak kita inginkan.
+
+Terima Kasih
+
+======================
+Rekening H2H
+
+VPS BAYU
+BCA:7675146411
+BNI:0617474982 
+MANDIRI:1390004841361 
+BRI: 013401000559561  A/N: SIRIN B A
+
+============
+
+MU RELOAD
+BCA = 1191884588
+BNI  = 294196518
+BRI =  002001001280566
+MANDIRI = 1100004445802  A/N JONI KL
+
+============
+
+VHAN RELOAD
+BCA: 777 39 66666  a/n Radji Azhari
+BRI: 000501002591566  RADJI AZHARI
+BNI : 19844 66666 a/n Radji Azhari
+MANDIRI: 131 00 88888 765  a/n Radji Azhari
+
+============
+
+TLM RELOAD
+BCA: 4971173887
+MANDIRI: 1640001861493 A/N:FINDYANTO PUTRA
+BRI : GAN99UAN A/N: FERDYANTO PUTRA H
+
+============
+
+Qpay
+BRI: 001701000541566
+BCA: 0400063346
+MANDIRI: 1450007393289
+A/N GUSTI NGURAH KOMANG PANJI PRAMANA
+
+
+Penambahan %%
+Pengurangan %%
+Pemberian %%
+Penambahan %%
+Komisi %%
+
+*123#
+22 Info
+1 Cek Kuota
+3 Paket Nelpon & SMS
+
+=================
+
+CONFIG VPN ITS 
+IP : 103.180.166.45
+Username :Ed2qELsdh
+Password : 6c53Krw2U
+pre-shared key : 1t5p4ym3nt
+=================
+
+*Cek Registari SIM Card*
+
+*1. Telkomsel*
+Pelanggan Telkomsel bisa melakukan pengecekan dengan menelepon ke nomor 188.
+
+*2. Indosat*
+Terdapat dua cara untuk melakukan pengecekan. Pertama, melalui laman https://myim3.indosatooredoo.com/ceknomor/index. Selain itu, juga bsia melalui SMS dengan format INFO#NIK kirim ke 4444.
+
+*3. XL / Axis Axiata*
+Pengguna XL bisa mengecek melalui USSD format *123*4444#. Sementara pengguna AXIS dapat mengunjungi laman https://axis.co.id/cel-nik.
+
+*4. Tri (3)*
+Pengguna Tri dapat mengecek NIK dan nomor ponselnya melalui SMS ke nomor 4444 dengan mengetik STATUS.
+
+*5. Smartfren*
+Pengguna Smartfren juga bisa melakukan penegcekan dengan format ketik CEK ke nomor 4444.
+
+Pihak Kominfo juga menambahkan selain cara di atas, juga bisa langsung menghubungi pihak customer service masing-masing operator.
+=================
+
+Nomer Sender : 
+Sender SMS 19:  082257103463  #SENDER DIPAKAI GPS PAK MARSUDI
+Sender SMS 18:  082233778608
+Sender SMS 17:  082233778601
+Sender SMS 16:  082234592261
+Sender SMS 15:  082233778597
+Sender SMS 14:  082233778603
+Sender SMS 13:  082257211362
+Sender SMS 12:  082233778623
+Sender SMS 11:  082233778604
+Sender SMS 10:  082257102084
+Sender SMS 9 : 085645382701
+Sender SMS 8 : 085773396337
+Sender SMS 7 : 085810986477
+Sender SMS 6 : 085810986425
+Sender SMS 5 : 085655637521
+Sender SMS 4 : 085807186427
+Sender SMS 3 : 081515963504
+Sender SMS 23: 085807446404
+Sender SMS 22: 081554216358
+Sender SMS 21: 085773396339  #SENDER DIPAKAI PAK HERRY
+Sender SMS 20: 081515963501
+
+================================================
+
+:: VHAN MODE BIASA ::
+
+ID : VC0122
+NAMA :  BINTANG CELL 
+JALUR TRX : 
+  JABBER 1 : speedwuzz78@fujabber.com
+  JABBER 2 : barokahcr3@jabbim.com
+  VIA IP
+  Username : 0DBFC8
+  password : 155868
+  
+================================================
+
+:: VHAN MODE BERFAKTUR ::
+
+ID : VC1066
+NAMA :  BAROKAH RELOAD MADIUN
+JALUR TRX : 
+  JABBER 1 : trxsipp@fujabber.com
+  JABBER 2 : speedwuzz79@jabb.im
+  Username : 2FBD28 
+  password : 4C4DF7
+  
+   Username anda adalah 2FBD28 dan password anda adalah 4C4DF7
+  
+================================================
+
+:: MU MODE BERFAKTUR ::
+
+ID : H2000082
+NAMA : BAROKAH RELOAD MADIUN 
+JALUR TRX : 
+  JABBER 1 : trxsipp@fujabber.com 
+  JABBER 2 : speedwuzz79@jabb.im
+  
+  Username : 212E06 &  Password  : DD4CAA 
+
+================================================
+
+:: MU MODE BIASA ::
+
+ID : BA094874
+NAMA : BINTANG CELL
+JALUR TRX : 
+  JABBER 1 : speedwuzz78@fujabber.com
+  JABBER 2 : barokahcr3@jabbim.com
+  VIA IP
+  
+  Username : 459F5E &  Password  : 58FCF7 
+  
+================================================
