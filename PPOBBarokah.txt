@@ -1,0 +1,480 @@
+PRODUK PPOB Barokah Reload
+
+Formatnya adalah :
+
+*PDAM KOTA Madiun*
+Cek Tagihan
+ketik : CEK.PDAMMDN.IDPELanggan.PIN
+Contoh : CEK.PDAMMDN.0114020001.1234
+
+Bayar Tagihan
+Ketik : BAYAR.PDAMMDN.IDPELanggan.PIN
+Contoh : BAYAR.PDAMMDN.0114020001.1234
+
+*PDAM KABUPATEN MADIUN*
+Cek Tagihan
+ketik : CEK.PDAMMAD.IDPELanggan.PIN
+Contoh : CEK.PDAMMAD.0114020001.1234
+
+Bayar Tagihan
+Ketik : BAYAR.PDAMMAD.NoHp.PIN
+Contoh : BAYAR.PDAMMAD.0114020001.1234
+
+*PDAM KAB NGAWI*
+Cek Tagihan
+ketik : CEK.PDAMNGW.IDPELanggan.PIN
+Contoh : CEK.PDAMNGW.0114020001.1234
+
+Bayar Tagihan
+Ketik : BAYAR.PDAMNGW.IDPELanggan.PIN
+Contoh : BAYAR.PDAMNGW.0114020001.1234
+
+*PDAM KABUPATEN MAGETAN*
+Cek Tagihan
+ketik : CEK.PDAMGT.IDPELanggan.PIN
+Contoh : CEK.PDAMGT.0114020001.1234
+
+Bayar Tagihan
+Ketik : BAYAR.PDAMGT.IDPELanggan.PIN
+Contoh : BAYAR.PDAMGT.0114020001.1234
+
+*PDAM KABUPATEN PONOROGO*
+Cek Tagihan
+ketik : CEK.PDAMPO.IDPELanggan.PIN
+Contoh : CEK.PDAMPO.0114020001.1234
+
+Bayar Tagihan
+Ketik : BAYAR.PDAMPO.IDPELanggan.NoHp.PIN
+Contoh : BAYAR.PDAMPO.0114020001.1234
+
+*PDAM KOTA MALANG*
+Cek Tagihan
+ketik : CEK.PDAMMLG.IDPELanggan.PIN
+Contoh : CEK.PDAMMLG.0114020001.1234
+
+Bayar Tagihan
+Ketik : BAYAR.PDAMMLG.IDPELanggan.PIN
+Contoh : BAYAR.PDAMMLG.0114020001.1234
+
+*PDAM KAB MALANG*
+Cek Tagihan
+ketik : CEK.PDAMMAL.IDPELanggan.PIN
+Contoh : CEK.PDAMMAL.0114020001.1234
+
+Bayar Tagihan
+Ketik : BAYAR.PDAMMAL.IDPELanggan.PIN
+Contoh : BAYAR.PDAMMAL.0114020001.1234
+
+*PDAM KAB SUKOHARJO*
+Cek Tagihan
+ketik : CEK.PDAMSKHJ.IDPELanggan.PIN
+Contoh : CEK.PDAMSKHJ.0114020001.1234
+
+Bayar Tagihan
+Ketik : BAYAR.PDAMSKHJ.IDPELanggan.PIN
+Contoh : BAYAR.PDAMSKHJ.0114020001.1234
+
+*PDAM KAB KARANGANYAR*
+Cek Tagihan
+ketik : CEK.PAMKRG.IDPELanggan.PIN
+Contoh : CEK.PAMKRG.0114020001.1234
+
+Bayar Tagihan
+Ketik : BAYAR.PAMKRG.IDPELanggan.PIN
+Contoh : BAYAR.PAMKRG.0114020001.1234
+
+*PDAM KAB SRAGEN*
+Cek Tagihan
+ketik : CEK.PAMSRG.IDPELanggan.PIN
+Contoh : CEK.PAMSRG.0114020001.1234
+
+Bayar Tagihan
+Ketik : BAYAR.PAMSRG.IDPELanggan.PIN
+Contoh : BAYAR.PAMSRG.0114020001.1234
+
+*PDAM KAB WONOGIRI*
+Cek Tagihan
+ketik : CEK.PDAMWNGR.IDPELanggan.PIN
+Contoh : CEK.PDAMWNGR.0114020001.1234
+
+Bayar Tagihan
+Ketik : BAYAR.PDAMWNGR.IDPELanggan.PIN
+Contoh : BAYAR.PDAMWNGR.0114020001.1234
+
+
+*PDAM KAB Bojonegoro*
+Cek Tagihan
+ketik : CEK.PDAMBJN.IDPELanggan.PIN
+Contoh : CEK.PDAMBJN.0114020001.1234
+
+Bayar Tagihan
+Ketik : BAYAR.PDAMBJN.IDPELanggan.PIN
+Contoh : BAYAR.PDAMBJN.0114020001.1234
+
+==============================
+*Tagihan TV SATELITE*
+
+*INDOVISION / MNC Vision*
+Cek Tagihan
+Format : cek.INDV.idpel.pin
+Contoh : cek.INDV.546123456789.1234
+
+Bayar Tagihan
+Format : BAYAR.INDV.idpelindovision.nomorhp.pin
+Contoh : BAYAR.INDV.546123456789.1234
+
+*MNC PLAY*
+Cek Tagihan
+Format : cek.MNC.idpel.pin
+Contoh : cek.MNC.546123456789.1234
+
+Bayar Tagihan
+Format : BAYAR.MNC.idpelindovision.nomorhp.pin
+Contoh : BAYAR.MNC.546123456789.1234
+
+*BIG TV*
+Cek Tagihan
+Format : cek.BIGTV.idpelBIGTV.pin
+Contoh : cek.BIGTV.546123456789.1234
+
+Bayar Tagihan
+Format : BAYAR.BIGTV.idpelBIGTV.nomorhp.pin
+Contoh : BAYAR.BIGTV.546123456789.1234
+
+*ORANGE TV*
+Cek Tagihan
+Format : cek.ORG.idpelORG.pin
+Contoh : cek.ORG.546123456789.1234
+
+Bayar Tagihan
+Format : BAYAR.ORG.idpelORG.nomorhp.pin
+Contoh : BAYAR.ORG.546123456789.1234
+
+*TELKOM VISION*
+Cek Tagihan
+Format : CEK.TELV.idpel.pin
+Contoh : CEK.TELV.546123456789.1234
+
+Bayar Tagihan
+Format : BAYAR.TELV.idpelindovision.nomorhp.pin
+Contoh : BAYAR.TELV.546123456789.1234
+
+
+
+==============================
+
+*Kartu Provider PASCA BAYAR*
+
+*Telkomsel HALLO*
+Cek Tagihan
+Format : CEK.HALO.NomorHALO.pin
+Contoh : CEK.HALO.081123456789.1234
+
+Bayar Tagihan
+Format : BAYAR.HALO.NomorHALO.nomorhp.pin
+Contoh : BAYAR.HALO.081123456789.1234
+
+*INDOSAT MATRIX*
+Cek Tagihan
+Format : CEK.IPC.NomorIndosatMatrix.pin
+Contoh : CEK.IPC.0857123456789.1234
+
+Bayar Tagihan
+Format : BAYAR.IPC.NomorIndosatMatrix.nomorhp.pin
+Contoh : BAYAR.IPC.0857123456789.1234
+
+*XL Prioritas*
+Cek Tagihan
+Format : CEK.XPC.NomorXLPasca.pin
+Contoh : CEK.XPC.0817123456789.1234
+
+Bayar Tagihan
+Format : BAYAR.XPC.NomorXLPasca.nomorhp.pin
+Contoh : BAYAR.XPC.081723456789.1234
+
+*TRI Elite*
+Cek Tagihan
+Format : CEK.TPC.NomorTRIPasca.pin
+Contoh : CEK.TPC.0893123456789.1234
+
+Bayar Tagihan
+Format : BAYAR.TPC.NomorTRIPasca.nomorhp.pin
+Contoh : BAYAR.TPC.0893123456789.1234
+
+*SMART PascaBayar*
+Cek Tagihan
+Format : CEK.SPC.NomorSmartPasca.pin
+Contoh : CEK.SPC.0883123456789.1234
+
+Bayar Tagihan
+Format : BAYAR.SPC.NomorSmartPasca.nomorhp.pin
+Contoh : BAYAR.SPC.0883123456789.1234
+
+
+==============================
+
+*Pembayaran Angsuran Leasing*
+
+*FIF*
+Cek Tagihan
+Format : CEK.FIF.idpel.pin
+Contoh : CEK.FIF.6123456789.1234
+
+Bayar Tagihan
+Format : BAYAR.FIF.NOmorFIF.nomorhp.pin
+Contoh : BAYAR.FIF.1123456789.1234
+
+*OTO*
+Cek Tagihan
+Format : CEK.OTO.idpel.pin
+Contoh : CEK.OTO.6123456789.1234
+
+Bayar Tagihan
+Format : BAYAR.OTO.idpel.pin
+Contoh : BAYAR.OTO.1123456789.1234
+
+*WOM*
+Cek Tagihan
+Format : CEK.WOM.idpel.pin
+Contoh : CEK.WOM.6123456789.1234
+
+Bayar Tagihan
+Format : BAYAR.WOM.idpel.pin
+Contoh : BAYAR.WOM.1123456789.1234
+
+*MEGA AUTO FINANCE (MAF)*
+Cek Tagihan
+Format : CEK.MAF.idpel.pin
+Contoh : CEK.MAF.6123456789.1234
+
+Bayar Tagihan
+Format : BAYAR.MAF.idpel.pin
+Contoh : BAYAR.MAF.1123456789.1234
+
+*BAF*
+Cek Tagihan
+Format : CEK.BAF.idpel.pin
+Contoh : CEK.BAF.6123456789.1234
+
+Bayar Tagihan
+Format : BAYAR.BAF.idpel.pin
+Contoh : BAYAR.BAF.1123456789.1234
+
+*ADIRA*
+Cek Tagihan
+Format : CEK.ADIRA.idpel.pin
+Contoh : CEK.ADIRA.6123456789.1234
+
+Bayar Tagihan
+Format : CEK.ADIRA.idpel.pin
+Contoh : BAYAR.ADIRA.1123456789.1234
+
+*CENTRAL SENTOSA FINANCE / CS Finance*
+Cek Tagihan
+Format : CEK.CSF.idpel.pin
+Contoh : CEK.CSF.6123456789.1234
+
+Bayar Tagihan
+Format : BAYAR.CSF.idpel.pin
+Contoh : BAYAR.CSF.1123456789.1234
+
+*KREDIT PLUS*
+Cek Tagihan
+Format : CEK.KRP.idpel.pin
+Contoh : CEK.KRP.6123456789.1234
+
+Bayar Tagihan
+Format : BAYAR.KRP.idpel.pin
+Contoh : BAYAR.KRP.1123456789.1234
+
+*HOME CREDIT*
+Cek Tagihan
+Format : CEK.HCR.idpel.pin
+Contoh : CEK.HCR.6123456789.1234
+
+Bayar Tagihan
+Format : BAYAR.HCR.idpel.pin
+Contoh : BAYAR.HCR.1123456789.1234
+
+==============================
+
+
+
+*TELKOM / Indihome / Speedy*
+Cek Tagihan
+Format : cek.TELKOM.idpel.pin
+Contoh : cek.TELKOM.0351495589.1234
+
+Bayar Tagihan
+Format : BAYAR.TELKOM.idpel.pin
+Contoh : BAYAR.TELKOM.0351495589.1234
+
+*LISTRIK*
+Cek Tagihan
+Format : CEK.LISTRIK.idpel.pin
+Contoh : CEK.LISTRIK.6123456789.1234
+
+Bayar Tagihan
+Format : BAYAR.LISTRIK.idpel.pin
+Contoh : BAYAR.LISTRIK.1123456789.1234
+
+*BPJS KESEHATAN*
+Cek Tagihan
+ketik : CEK.BPJSKES.IDPELanggan.PIN
+Contoh : CEK.BPJSKES.0001895992255.1234
+
+Bayar Tagihan
+Ketik : BAYAR.BPJSKES.IDPELanggan.PIN
+Contoh : BAYAR.BPJSKES.0001895992255.1234
+
+*PLN NONTAGLIST*
+Cek Tagihan
+ketik : CEK.NONTAGPLN.IDPELanggan.PIN
+Contoh : CEK.NONTAGPLN.5150812029195.1234
+
+Ketik : BAYAR.NONTAGPLN.IDPELanggan.PIN
+Contoh :BAYAR.NONTAGPLN.5150812029195.1234
+
+
+= = = = = = = = = = = = = = = = = = = = = = =whtasapp = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Terkait Perubahan Mekanisme Pembayaran BPJS kesehatan, 
+dimana satu nomer VA telah melunasi untuk seluruh anggota keluarga yang tertanggung, maka yang sudah telanjur melakukan pembayaran. Artinya ada kelebihan pembayaran dan ini Akan di akumulasikan ke bulan bulan -  bulan berikutnya..
+
+untuk informasi lebih lanjut bisa menghubungi call center BPJSkes 1500400 atau ke kantor cabang terdekat. Trims
+
+Yang Menentukan jumlah Tagihan Pihak BPJs bos,bisa d tanyakan ke 
+call center BPJSkes 1500400 
+
+ (0351) 744594
+ (0351) 463324
+
+KOta madiun
+ Alamat: Jl. Sulawesi No.18, Kartoharjo, Kec. Kartoharjo, Kota Madiun, Jawa Timur 63117
+Jam buka: 
+Telepon: (0351) 464205
+
+Kab Madiun
+Jalan Panglima Sudirman
+ Caruban - Kabupaten Madiun
+ Jawa Timur - Indonesia 63153
+Phone: (0351) 383-294, 385-777
+
+PDAM Kab. Ngawi
+ Alamat lokasi : Jl. Jend. S. Parman No. 1 Ngawi, Kab. Ngawi, Jawa Timur
+Nomor Telepon : 0351 - 749227 / 747261
+
+= = = = = = = = = = = = = = = = = = = = = = =whtasapp = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+Pembayaran PPOB dari Barokah akan ada Sejumlah Fee dari Total Tagihan.
+Cek Feenya : H.KodeProdukPPOB.PinTrx
+Contoh cek Fee Listrik : *H.Listrik.1234* kirim ke *Center Transaksi*
+
+*Contoh nyata*
+Saat Cek tagihan :
+
+ Cek Tagihan PDAMMAD 461451500001113 SN:SUROYO/JMLBLN: 1/PERIODE:FEB20/SM:/REF:/TAG:38000/ADM:2500 HARGA:0 SALDO:1.016.944
+
+Tagihan = *38000*
+ADM: *2500*
+
+Saat Bayar :
+
+Bayar Tagihan PDAMMAD 461451500001113 SUKSES SN: SUROYO/JMLBLN: 1/PERIODE:FEB20/SM:00-00/461451500001113/REF:202023950673/TAG:38000/ADM:2500 HARGA:38.800 SALDO:978.144
+
+Saldo terpotong = *38.800*
+User Bayar = *38.800+2500 = 40.500*
+Untung = *1700*
+
+Misal untung 600 bisa d tambah 2000 seperti jualan pulsa
+
+
+=======================
+
+*Jangan Lupa Guys*  ❗️❗️
+
+ *MBayar listrik bulan ini ya!*
+_Yuk, Biar terhindar dari sanksi pemutusan aliran listrik_
+ 😊
+
+_Yukk ingetin bapak ibu suami istri pakdhe budhe om tante untuk bayar yaa. Jangan sampai kena putus, karena putus itu menyakitkan. Terima kasih untuk kalian yang sudah bayar listrik tepat waktu._
+
+*LISTRIK*
+Cek Tagihan
+Format : CEK.LISTRIK.idpel.pin
+Contoh : CEK.LISTRIK.6123456789.1234
+
+*Bayar Tagihan*
+Format : BAYAR.LISTRIK.idpel.pin
+Contoh : BAYAR.LISTRIK.1123456789.1234
+
+*Cetak Struk PLN* - http://36.79.176.65:8080/cetak#
+
+=======================
+
+*Di balik keluarga hebat, terdapat keluarga yang sehat*  👨‍👩‍👧‍👧
+
+_Jangan pilih kasih bayar iuran untuk keluarga tercinta. Cukup 1x transaksi dari salah satu nomor VA peserta, dalam satu keluarga untuk pembayaran seluruh anggota keluarga_
+
+_Dengan gotong royong semua tertolong_ 😇💪🏻
+
+*BPJS KESEHATAN*
+Cek Tagihan
+ketik : CEK.BPJSKES.IDPELanggan.PIN
+Contoh : CEK.BPJSKES.0001895992255.1234
+
+*Bayar Tagihan*
+Ketik : BAYAR.BPJSKES.IDPELanggan.PIN
+Contoh : BAYAR.BPJSKES.0001895992255.1234
+
+*Cetak Struk BPJS* - https://centertrx.com/cetakstruk/#
+
+*Download Aplikasi printstruk* - https://play.google.com/store/apps/details?id=com.innsystech.printstruk
+
+=======================
+
+_Mimin ingatkan kembali ya mumpung masih ada waktu segera bayar tagihan air mu jangan sampai nggak mandi gara gara lupa bayar tagihan air._ ??
+
+_Hindari Pembayaran PPOB tgl 20 (jatuh tempo) untuk menghindari kepadatan pembayaran/gangguan produk_
+
+PRODUK PDAM Barokah Reload
+
+*PDAM KAB MADIUN*
+Cek Tagihan
+ketik : CEK.PDAMMAD.IDPELanggan.PIN
+*Bayar Tagihan*
+Ketik : *BAYAR.PDAMMAD.IDPELanggan.PIN*
+
+*PDAM KOTA MADIUN*
+Cek Tagihan
+ketik : CEK.PDAMMDN.IDPELanggan.PIN
+*Bayar Tagihan*
+Ketik : *BAYAR.PDAMMDN.IDPELanggan.PIN*
+
+*PDAM KAB NGAWI*
+Cek Tagihan
+ketik : CEK.PDAMNGW.IDPELanggan.PIN
+*Bayar Tagihan*
+Ketik : *BAYAR.PDAMNGW.IDPELanggan.PIN*
+
+*PDAM KAB MAGETAN*
+Cek Tagihan
+ketik : CEK.PDAMGT.IDPELanggan.PIN
+*Bayar Tagihan*
+Ketik : *BAYAR.PDAMGT.IDPELanggan.PIN*
+
+*Cetak Struk PDAM* - https://centertrx.com/cetakstruk/#
+
+*Aplikasi printstruk* - https://play.google.com/store/apps/details?id=com.innsystech.printstruk
+
+==============
+
+*Mau Cetak Struk Pembayaran Produk Pascabayar??*
+_KLik d bawah ini ya kakk..._
+
+Cetak Struk PLN : http://36.79.176.65:8080/cetak
+
+Cetak Struk BPJS FIF DLL (SELAIN PLN) ???? : https://centertrx.com/cetakstruk/#
+
+Untuk Struk token Paket data dan Pulsa bisa di cetak di aplikasi irma :
+*Download* ???? :  https://play.google.com/store/apps/details?id=irs.mobile.app
+
